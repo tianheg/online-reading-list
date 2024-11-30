@@ -13,12 +13,12 @@
 - [GitHub - chenshuo/typeset](https://github.com/chenshuo/typeset) Contribute to chenshuo/typeset development by creating an account on GitHub. #排版
 - [GitHub - wasi-master/13ft: My own custom 12ft.io replacement](https://github.com/wasi-master/13ft) My own custom 12ft.io replacement. Contribute to wasi-master/13ft development by creating an account on GitHub. #paywall
 - [Examples of Great URL Design - Jim Nielsen’s Blog](https://blog.jim-nielsen.com/2023/examples-of-great-urls/) Writing about the big beautiful mess that is making things for the world wide web. #dev
-- [Font withBuilt-InSyntaxHighlighting](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/) An experiment in javascript-free syntax highlighting, made possible by opentype contextual alternates and COLR table #font, highlight
+- [Font withBuilt-InSyntaxHighlighting](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/) An experiment in javascript-free syntax highlighting, made possible by opentype contextual alternates and COLR table #font#highlight
 - [李承鹏：关于未来的无题](https://x.com/dayangelcp/status/1822639748210638935)  #中国
-- [GCC and Make - A Tutorial on how to compile, link and build C/C++ applications](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html)  #GCC, Make
-- [GitHub - pearmini/genji: The Markdown extension for interactive documents, available in VitePress.](https://github.com/pearmini/genji) The Markdown extension for interactive documents, available in VitePress. - pearmini/genji #dev, graph
+- [GCC and Make - A Tutorial on how to compile, link and build C/C++ applications](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html)  #GCC#Make
+- [GitHub - pearmini/genji: The Markdown extension for interactive documents, available in VitePress.](https://github.com/pearmini/genji) The Markdown extension for interactive documents, available in VitePress. - pearmini/genji #dev#graph
 - [GitHub - abdoufermat5/unix-and-linux-sysadmin-notes: Unix and Linux system administration handbook by Evi Nemeth Garth Snyder Trent R. Hein Ben Whaley Dan Mackin](https://github.com/abdoufermat5/unix-and-linux-sysadmin-notes) Unix and Linux system administration handbook by Evi Nemeth Garth Snyder Trent R. Hein Ben Whaley Dan Mackin - abdoufermat5/unix-and-linux-sysadmin-notes #Linux
-- [GitHub - Stirling-Tools/Stirling-PDF: #1 Locally hosted web application that allows you to perform various operations on PDF files](https://github.com/Stirling-Tools/Stirling-PDF) #1 Locally hosted web application that allows you to perform various operations on PDF files - Stirling-Tools/Stirling-PDF #dev, pdf
+- [GitHub - Stirling-Tools/Stirling-PDF: #1 Locally hosted web application that allows you to perform various operations on PDF files](https://github.com/Stirling-Tools/Stirling-PDF) #1 Locally hosted web application that allows you to perform various operations on PDF files - Stirling-Tools/Stirling-PDF #dev#pdf
 - [GitHub - penpot/penpot: Penpot: The open-source design tool for design and code collaboration](https://github.com/penpot/penpot) Penpot: The open-source design tool for design and code collaboration - penpot/penpot #design
 - [HERETICAL THOUGHTS ABOUT SCIENCE AND SOCIETY | Edge.org](https://www.edge.org/conversation/freeman_dyson-heretical-thoughts-about-science-and-society)  #Idea
 - [Deep Dive into PostgREST - Time Off Manager (Part 1) | boringSQL](https://notso.boringsql.com/posts/postgrest-tutorial-part1/) Deep dive into SQL & PostgreSQL to build reliable, rock-solid solutions with tips and tricks that keep business online. Data is everything. Explore, learn and innnovate to get them where you need faster and more efficiently. #dev
@@ -39,7 +39,7 @@
 - [Felo Translator - Real-time voice translation App](https://felo.me/translator) Google登陆 #ai
 - [GitHub - opendatalab/PDF-Extract-Kit: A Comprehensive Toolkit for High-Quality PDF Content Extraction](https://github.com/opendatalab/PDF-Extract-Kit) A Comprehensive Toolkit for High-Quality PDF Content Extraction - opendatalab/PDF-Extract-Kit #pdf
 - [GitRead](https://gitread.co/home) With GitRead, you can interact and engage with the content of GitHub repositories you're interested in, and receive tailor-made answers to topic-based questions.Get insights for your GitHub repository in seconds! #git
-- [播客小镇](https://podtown.xyz/) 「播客小镇」是一张中文播客地图，希望以好玩的方式呈现中文播客的一种样貌和其中的可能性。 #Podcast, fun
+- [播客小镇](https://podtown.xyz/) 「播客小镇」是一张中文播客地图，希望以好玩的方式呈现中文播客的一种样貌和其中的可能性。 #Podcast#fun
 - [Muenzo - Offline Canvas for Everyone](https://canvas.muenzo.com/)  #fun
 - [OpenYYY 开源云音乐 - 多种云音乐格式转MP3！](https://openyyy.com/) 本站提供云音乐格式批量在线转换，浏览器本地转换，无需上传，可将NCM批量在线转换为MP3, NCM批量在线转换为FLAC, QMC批量在线转换为MP3, UC批量在线转换为MP3, UC批量在线转换为FLAC, KWM批量在线转换为MP3, KWM批量在线转换为FLAC, XM批量在线转换为MP3, XM批量在线转换为WAV, XM批量在线转换为FLAC, XM批量在线转换为M4A, TM0批量在线转换为MP3, TM3批量在线转换为MP3, QMC3批量在线转换为MP3, QMC2批量在线转换为OGG, QMC0批量在线转换为MP3, QMCFLAC批量在线转换为FLAC, QMCOGG批量在线转换为OGG, TKM批量在线转换为M4A, BKCMP3批量在线转换为MP3, BKCM4A批量在线转换为M4A, BKCFLAC批量在线转换为FLAC, BKCWAV批量在线转换为WAV, BKCAPE批量在线转换为APE, BKCOGG批量在线转换为OGG, BKCWMA批量在线转换为WMA, MGGL批量在线转换为OGG, MFLAC批量在线转换为FLAC, MFLAC0批量在线转换为FLAC, MGG批量在线转换为OGG, MGG1批量在线转换为OGG, MGG0批量在线转换为OGG, 666C6163批量在线转换为FLAC, 6D7033批量在线转换为MP3, 6F6767批量在线转换为OGG, 6D3461批量在线转换为M4A, 776176批量在线转换为WAV, TM2批量在线转换为M4A, TM6批量在线转换为M4A, CACHE批量在线转换为MP3, VPR批量在线转换为MP3, KGM批量在线转换为MP3, KGMA批量在线转换为MP3，支持预览、下载等功能 #music
 - [Breaking News Headlines and Media Bias | Ground News](https://ground.news/) 防误导 The biggest source for breaking news around the world. Compare headlines across the political spectrum using media bias ratings driven by data. Spot misinformat #news
@@ -49,11 +49,11 @@
 - [GitHub - codeudan/crawler-china-mainland-universities: 中国大陆大学列表爬虫](https://github.com/codeudan/crawler-china-mainland-universities) 中国大陆大学列表爬虫. Contribute to codeudan/crawler-china-mainland-universities development by creating an account on GitHub. #中国选大学
 - [30 seconds of code](https://www.30secondsofcode.org/) Browse 895 short code snippets for all your development needs on 30 seconds of code. #dev
 - [SadServers - Linux & DevOps Troubleshooting Interviews](https://sadservers.com/) Linux Troubleshooting Interview DevOps SRE #dev
-- [paperclips](https://www.decisionproblem.com/paperclips/index2.html)  #fun, game
-- [Mathic: The Magical Fast Math Search Game](https://www.worchle.com/mathic/) Go for a high score in this fast math search game! Mathic puts a mathemagical twist on the word search genre. #fun, math
+- [paperclips](https://www.decisionproblem.com/paperclips/index2.html)  #fun#game
+- [Mathic: The Magical Fast Math Search Game](https://www.worchle.com/mathic/) Go for a high score in this fast math search game! Mathic puts a mathemagical twist on the word search genre. #fun#math
 - [Probabilistic Tic-Tac-Toe | Cameron Sun](https://www.csun.io/2024/06/08/probabilistic-tic-tac-toe.html) Tic-Tac-Toe reimagined as a game of chance. #fun
 - [2024 justfont 推薦的中文字體，與合法使用管道整理 - justfont blog](https://blog.justfont.com/2024/04/chinesefonts_recommendation/) 超過 20 款中文字體推薦，風格多樣還兼顧實用性。使用方式、合法授權管道，與是否具備台語、客語用字等資訊一次整理給你！ 本篇介紹萬用百搭款；優雅經典、深度人文、嚴肅主題字體；復古、懷舊字體；高級、潮流、質感字體；輕鬆、可愛、拉近距離的字體；大聲、引注目標題用字；注音與教育字體。免費可商用、付費字型一篇掌握。 #font
-- [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/)  #Art, fun
+- [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/)  #Art#fun
 - [nexus的安装 | 二丫讲梵](https://wiki.eryajf.net/pages/1803.html#%E5%85%B3%E4%BA%8E%E7%89%88%E6%9C%AC%E9%80%89%E6%8B%A9) 💻学习📝记录🔗分享
 学无止境是永远前进的基础，跃然纸上是对知识的总结交代，与众分享则是实现价值的最好方式。 #mirror
 - [Harbor docs | Configure Proxy Cache](https://goharbor.io/docs/2.1.0/administration/configure-proxy-cache/)  #mirror
@@ -80,7 +80,7 @@
 - [Home | Palette](https://palette.artsy.net/)  #design
 - [Welcome to the W3C design system - W3C Design System](https://design-system.w3.org/)  #design
 - [GitHub - sivan/heti: 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。](https://github.com/sivan/heti) 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。 - sivan/heti #font
-- [Placehold | A simple, fast and free image placeholder service](https://placehold.co/) Placehold is a simple, fast and free image placeholder service to generate SVG, PNG, JPEG and WebP placeholder images for your project. #dev, image
+- [Placehold | A simple, fast and free image placeholder service](https://placehold.co/) Placehold is a simple, fast and free image placeholder service to generate SVG, PNG, JPEG and WebP placeholder images for your project. #dev#image
 - [The Creative Independent](https://thecreativeindependent.com/) The Cre­ative In­de­pen­dent is a re­source of emo­tional and prac­ti­cal guid­ance for cre­ative peo­ple. #Art
 - [UI Lib Picker](https://ui-libs.vercel.app/) 🎨 Pick the Right UI Library for your Vue 3 or Nuxt 3 Project #dev
 - [SalesPopup: Increase your conversion rate with real-time sales popups](https://salespopup.io/) Increase your sales easily by showing recent transactions in a popup users will trust. Customize it, copy the script and you’re good to go! Yes, it’s that easy. #产品开发
@@ -99,9 +99,1347 @@
 - [Slice Tap Toy](https://memalign.github.io/m/slice/) Slice Tap Toy - swipe to slice! #fun
 - [JS Visualizer 9000](https://www.jsv9000.app/)  #dev
 - [Model & API Providers Analysis | Artificial Analysis](https://artificialanalysis.ai/) Comparison and analysis of AI models and API hosting providers. Independent benchmarks across key metrics including quality, price, performance and speed (throughput & latency). #ai
-- [Service Manual - GOV.UK](https://www.gov.uk/service-manual) Helping government teams create and run great digital services that meet the Service Standard. #design, web
+- [Service Manual - GOV.UK](https://www.gov.uk/service-manual) Helping government teams create and run great digital services that meet the Service Standard. #design#web
 - [Future Friendly](https://futurefriendlyweb.com/)  #web
 - [Mock Service Worker - API mocking library for browser and Node.js](https://mswjs.io/) API mocking library for browser and Node.js #dev
 - [Web Platform Status](https://webstatus.dev/)  #web
 - [Relearn CSS layout: Every Layout](https://every-layout.dev/)  #CSS
-- [Be the browser’s mentor, not its micromanager. - Build Excellent Websites](https://buildexcellentwebsit.es/) Key principles using modern CSS, fluid type, fluid space, flexible layout and progressive enhancement will help you to build better front-ends that work for everyone. #design, dev
+- [Be the browser’s mentor, not its micromanager. - Build Excellent Websites](https://buildexcellentwebsit.es/) Key principles using modern CSS, fluid type, fluid space, flexible layout and progressive enhancement will help you to build better front-ends that work for everyone. #design#dev
+- [Fluid Responsive Design | Utopia](https://utopia.fyi/) Fluid responsive design #design
+- [HISTORY | Watch Full Episodes of Your Favorite Shows](https://www.history.com/) Watch full episodes of your favorite HISTORY series, and dive into thousands of historical articles and videos. To know History is to know life. #history
+- [Submarine Cable Map 2024](https://submarine-cable-map-2024.telegeography.com/)  #cable#map
+- [Internet Exchange Map](https://www.internetexchangemap.com/) TeleGeography’s free interactive Internet Exchange Map depicts over 300 active Internet exchanges and more than 500 buildings in which those exchanges reside. #map
+- [Cloud Infrastructure Map](https://www.cloudinfrastructuremap.com/) TeleGeography's Cloud Infrastructure Map #map
+- [Submarine Cable Map](https://www.submarinecablemap.com/) TeleGeography's comprehensive and regularly updated interactive map of the world's major submarine cable systems and landing stations. #cable#map
+- [TeleGeography | Home](https://www2.telegeography.com/) TeleGeography is a telecommunications market research company with unbiased, data-driven analysis. #cable
+- [Home | CERN](https://home.cern/) CERN, the European Organization for Nuclear Research, is one of the world’s largest and most respected centres for scientific research. Its business is fundamental physics, finding out what the Universe is made of and how it works. #science
+- [OpenSSF Guides – Open Source Security Foundation](https://openssf.org/resources/guides/)  #security
+- [Webcam-Übersicht - Foto-Webcam.eu](https://www.foto-webcam.eu/) Foto-Webcam.eu: Die Webcams mit der besten Bildqualität bei Tag und Nacht #webcam
+- [Immersive Math](https://immersivemath.com/ila/index.html)  #fun#math
+- [SpaceWeather.com -- News and information about meteor showers, solar flares, auroras, and near-Earth asteroids](https://spaceweather.com/)  #fun
+- [GitHub - txstc55/ugly-avatar](https://github.com/txstc55/ugly-avatar) Contribute to txstc55/ugly-avatar development by creating an account on GitHub. #fun
+- [Face Swap Online Free](https://faceswap.so/) Find clear answers to tough coding questions, powered by FaceSwap's AI answer engine. #ai
+- [GitHub - buxuku/VideoSubtitleGenerator: 批量为本地视频生成字幕文件，并可将字幕文件翻译成其它语言](https://github.com/buxuku/VideoSubtitleGenerator) 批量为本地视频生成字幕文件，并可将字幕文件翻译成其它语言. Contribute to buxuku/VideoSubtitleGenerator development by creating an account on GitHub. #video
+- [Twogether AI](https://twogether.ai/) Discover AI-generated multi-person portraits at Twogether.ai. Create unique art blending your image with anyone. Explore now! #ai
+- [LLM Explorer: A Curated LLM List. Explore LLM List of the Open-Source LLM Models.](https://llm.extractum.io/) Explore 40520 open-source LLMs. Thousands of large and small language models conveniently grouped into various categories and llm lists complete with benchmarks, capabilities, insights and analytics. A curated list of open-source LLMs and SLMs. #ai
+- [Explore the In Our Time archive | Braggoscope](https://www.braggoscope.com/) Explore the In Our Time archive. #bbc
+- [Just a moment...](https://chat.lmsys.org/)  #ai
+- [DeepSeek](https://www.deepseek.com/) DeepSeek, unravel the mystery of AGI with curiosity. Answer the essential question with long-termism. #ai
+- [How to Understand, Present and Invent Electronic Circuits](https://www.circuit-fantasia.com/index.html) This site presents a completely novel concept in electronics education as an alternative to the classical approach. Based on human imagination and intuition rather than formal reasoning, it is implemented as an interactive multimedia electronics product. It is intended  for students, teachers, hobbyists, inventors and for all those who do not make do with traditional formal explanations of electronic circuit phenomena. The product consists of tutorials, collections of circuits, basic principles and heuristic tools implemented by means of dynamic text, interactive step-by-step controlled animations, hyperlinks, hidden explanation buttons and sounds associated to the circuit operation. Created by Cyril Mechkov. need Flash https://ruffle.rs/ #circuit
+- [Lutris - Open Gaming Platform](https://lutris.net/) Play all your games on Linux. Lutris is an Open Source gaming platform for Linux. It installs and launches games so you can start playing without the hassle of setting up your game. Get your games from GOG, Steam, Battle.net, Origin, Uplay and many other sources running on any Linux powered gaming machine. #game
+- [MapLibre |
+MapLibre](https://maplibre.org/)  #map
+- [Protomaps | A free and open source map of the world](https://protomaps.com/) Protomaps is an alternative to Map APIs that you run on your own cloud storage. #map
+- [AutoDL算力云 | 弹性、好用、省钱。租GPU就上AutoDL](https://www.gpuhub.com/home) AutoDL为您提供专业的GPU租用服务，秒级计费、稳定好用，高规格机房，7x24小时服务。更有算法复现社区，一键复现算法。 #ai
+- [https://www.feynmanlectures.caltech.edu/](https://www.feynmanlectures.caltech.edu/)  #fun
+- [秘塔AI搜索](https://metaso.cn/) 秘塔AI搜索，没有广告，直达结果 #ai
+- [MetaLaw 类案检索，一键直达，让你的法律研究效率快人10倍](https://meta.law/) 精准类案，一键直达，AI分析助理，让你的法律研究效率快人10倍 #ai
+- [Hacker Search](https://hackersearch.net/) Actually relevant search #hn
+- [Introducing SMuFL | SMuFL](https://www.smufl.org/) A brief history of music fonts Computer software has been displaying musical symbols of various kinds since the 1960s, but the first font for musical symbols did not arrive until 1985, when Cleo Hu… #music
+- [Home | Unfettered_World](https://www.sonnyyan.com/)  #design
+- [GitHub - stephband/scribe: Renders music ib HTML.](https://github.com/stephband/scribe/) Renders music ib HTML. Contribute to stephband/scribe development by creating an account on GitHub. #music
+- [Internet Speed Test - Measure Network Performance | Cloudflare](https://speed.cloudflare.com/) Test your Internet connection. Check your network performance with our Internet speed test. Powered by Cloudflare's global edge network. #network
+- [https://explorer.globe.engineer/](https://explorer.globe.engineer/)  #ai
+- [tscircuit](https://tscircuit.com/) tscircuit React PCB/Schematic Components #dev#电路
+- [How DNS works. What is DNS? Learn how step by step.](https://howdns.works/) Learn what is the domain name system (DNS) that brings computers and IP addresses together when you type a website address in your browser with our webcomic. #dev#dns
+- [randomlyunique](https://randomlyunique.com/)  #fun
+- [Octopus.do, Visual Sitemap Tool, Website Planner, Architecture](https://octopus.do/) FREE visual sitemap builder with lo-fi wireframes for prototyping website architecture & structure. Use our website planning and site mapping tool to create a site map instantly. Our website diagram tool and website mapping is extremely fast and easy, we promise! #dev
+- [Hacklily — sheet music editor](https://www.hacklily.org/) Hacklily is an online LilyPond-based sheet-music editor and publishing tool. #music
+- [期刊 - 雀乐](https://indie.cn/) 独立 不独于世 #music
+- [Component Party](https://component-party.dev/) 不同框架语法对比 Web component JS frameworks overview by their syntax and features: Svelte 4, React, Vue 3, Angular, Lit, Vue 2, Ember Octane, Solid.js, Alpine, Svelte 5 (preview), Ember Polaris (preview), Mithril, Aurelia 2, Qwik, Marko, Aurelia 1 #dev
+- [HexEd.it - Browser-based Online and Offline Hex Editing](https://hexed.it/) 查看二进制码 HexEd.it, the powerful online hex editor running in your web browser using HTML5/JavaScript technology. Analyse and edit binary files everywhere. #dev
+- [TSConfig Guide - Generate a modern TSConfig file from just a few toggles.](https://tsconfig.guide/) TSConfig Guide enables you to generate a modern TSConfig file for your TypeScript project from just a few toggles #dev
+- [Dockerfile Explorer | Depot](https://depot.dev/dockerfile-explorer) A tool for introspecting the LLB output of BuildKit's Dockerfile parser. #dev#docker
+- [Llama 3 Chat Meta AI](https://llama3.dev) Llama 3 is the latest language model from Meta. #ai
+- [Paper Sizes | A comprehensive resource listing all paper sizes, dimensions and formats.](https://papersizes.io/) A simple, free, comprehensive resource for finding the international standards for paper sizes in metric and imperial. #press
+- [Prepressure.com | The prepress, printing and publishing site](https://www.prepressure.com/) Prepressure covers prepress, design, PDF, PostScript, fonts, JDF and other topics that have to do with printed communication and graphic arts. #pdf#press
+- [Score in URL](https://powersnail.com/ScoreInUrl/?s=VDogQWlyIG9uIEcgU3RyaW5nCkM6IEouUy4gQmFjaCAoYXJyLiBBdWd1c3QgV2lsaGVsbWouKQpROiAiTGVudG8iCk06IDQvNApMOiAxLzE2Cks6IENtYWoKfDogRTE2LSB8IEUyKEFGIERDQixDKSAoIXRyaWxsIUIsNy8yQSwvMikgRyw0IHwgRzgtIEcoRV9CLEEsKSAoRF5DKShHRikgfCAKRjgtIEYoREEsRywpIChDQiwpKEZFKSB8IChFNiBeRkcpIChDMkMvMkQvMkUpIChFRCkoREMpIHwgKEIsQSwpKEEsLzJCLC8yQykgKEMyQixBLCkgRyw4IDp8IAp8OiAoQiw0LUIsQy8yQiwvMkEsLzJCLC8yRywpIChHNiBfQiwyKSB8IChBLDJBMi0gQSkoR0ZFKSB7L0V9RjQtIEYvMihFLzJELzJDLzJCLEEsKSB8IF5HLEEsKEIsMi0gQixDKShEMi0gREUpRjItIEYyRTIgfAooREMpKEIsQSwpIChCLEMvMkQvMkNCLCkgQSw4IHwgKEM0LSBDRURDKSAoQTYgR15GKSB8ICh7L0V9REdHLDIpIChBLDNCLC8yQy8yKSAoQiw3LzJBLC8yKSBHLDQgfCAKQzYgKEVEKSBENiAoRkUpIHwgRTYgKEdGKSBGOCB8IEcsNC0gRyxCLERGIEZERTItIEUyKEVGLzJHLzIpIHwgCihDNC0gQ0VHX0IpIChCMiBBNCBDMikgfCAoQixEIEY0IEEsMikgKEcsMkRFLzJGLzItIEYpKEUyRCB8IEMvMkIsLzIpKEEsMkIsKSAoQiwyey9BLH1CLEMpIEM4IDp8Cg%3D%3D) 用url存储乐谱 #music
+- [go-music](https://music.unmeta.cn/)  #music
+- [Mopidy](https://mopidy.com/) The extensible music server #music
+- [Navidrome](https://www.navidrome.org/) Personal Music Streamer #music
+- [The Free Software Media System | Jellyfin](https://jellyfin.org/) The volunteer-built media solution that puts you in control of your media. Stream to any device from your own server, with no strings attached. #music
+- [GitHub - sentriz/gonic: music streaming server / free-software subsonic server API implementation](https://github.com/sentriz/gonic) music streaming server / free-software subsonic server API implementation - sentriz/gonic #music
+- [GitHub - izderadicka/audioserve: Simple personal server to serve audiofiles files from folders.  Intended primarily for audio books, but anything with decent folder structure will do.](https://github.com/izderadicka/audioserve) Simple personal server to serve audiofiles files from folders.  Intended primarily for audio books, but anything with decent folder structure will do. - izderadicka/audioserve #music
+- [Statista - The Statistics Portal for Market Data, Market Research and Market Studies](https://www.statista.com/) Find statistics, consumer survey results and industry studies from over 22,500 sources on over 60,000 topics on the internet's leading statistics database #data
+- [GitHub - Anduin2017/HowToCook: 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).](https://github.com/Anduin2017/HowToCook) 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only). - Anduin2017/HowToCook #cook
+- [Learn to use email with git!](https://git-send-email.io/)  #email#git
+- [ESPHome — ESPHome](https://esphome.io/index.html) ESPHome Homepage - Reimagining DIY Home Automation. ESPHome is a framework that tries to provide the best possible use experience for using IoT microcontrollers for Home Automation. Just write a simple YAML configuration file and get your own customized firmware. #电路
+- [Linux 内核教学 — Linux 系统内核文档](https://linux-kernel-labs-zh.xyz/)  #Linux
+- [Home - Green Web Foundation](https://www.thegreenwebfoundation.org/) We need a fossil free internet by 2030. The internet is the world's biggest coal powered machine, and this is bug in the system we can fix. #环境保护
+- [Ollama](https://ollama.com/) Get up and running with large language models. #ai
+- [Antipodes Map - Tunnel to the other side of the world](https://www.antipodesmap.com/) 从地球的一个点，找到穿过地心的一条直线对应的另外一个点 #fun
+- [Free Online Signature Generator (Type or Draw) | Signaturely](https://signaturely.com/online-signature/) A free online signature generator or signature maker to create an eSignature. Type it or draw it, and sign documents securely. #签名
+- [Compare and analyze Firefox add-ons](https://firefox-stats.com/) All-in-one platform for competitor research, risk analysis, and growth tracking #firefox
+- [OI Wiki - OI Wiki](https://oi-wiki.org/) OI Wiki 是一个编程竞赛知识整合站点，提供有趣又实用的编程竞赛知识以及其他有帮助的内容，帮助广大编程竞赛爱好者更快更深入地学习编程竞赛 #CS
+- [简介 - CTF Wiki](https://ctf-wiki.org/) CTF Wiki #security
+- [DarkHandBook - Blockchain dark forest selfguard handbook - Master these, master the security of your cryptocurrency.](https://darkhandbook.io/) Blockchain is a great invention that brings about a change in production relations and solves the problem of trust to some degree. Specifically, blockchain creates many “trust” scenarios without the need for centralization and third parties, such as immutability, execution as agreed, and prevention of repudiation. However, the reality is cruel. There are many misunderstandings about blockchain, and the bad guys will use these misunderstandings to exploit the loophole and steal money from people, causing a lot of financial losses. Today, the crypto world has already become a dark forest.The DarkHandBook is not just a handbook. We are working with more high-quality Web3 partners to improve the security awareness of this industry to at least one level. This feeling is a bit like DAO, and the industry will be better and better.The originator of the DarkHandBook is Cos, but the honor belongs to all contributors. #Web3
+- [极客时间-轻松学习，高效学习-极客邦](https://time.geekbang.org/)  #dev
+- [Online Python Tutor - visualize, debug, get AI help for Python, Java, C, C++, and JavaScript](https://pythontutor.com/)  #dev
+- [‎Gemini - chat to supercharge your ideas](https://gemini.google.com/app) Bard is now Gemini. Get help with writing, planning, learning, and more from Google AI. #ai
+- [JavaScript框架语法特性对比](https://component-party.jason-liang.com/) Web component JS frameworks overview by their syntax and features: Vue 2, Vue 3, React, Svelte, SolidJS, Qwik, Angular, Lit, Ember, Alpine, Aurelia 1 #dev
+- [Terminal Trove - The $HOME of all things in the terminal.](https://terminaltrove.com/) Terminal Trove showcases the best of the terminal, Discover a collection of CLI, TUI, and more developer tools at Terminal Trove. #dev
+- [模型服务灵积 DashScope - 阿里云](https://dashscope.aliyun.com/) 阿里云模型服务灵积 DashScope建立在“模型即服务”（Model-as-a-Service，MaaS）的理念基础之上，通过灵活、易用的通义大模型API接口，为AI开发者提供丰富可集成的模型能力，让AI应用开发更简单！ #ai
+- [零一万物大模型开放平台](https://platform.lingyiwanwu.com/)  #ai
+- [LMSys Chatbot Arena Leaderboard - a Hugging Face Space by lmsys](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard) ai 模型能力排名 #ai
+- [JanitorAI - Wow such bots](https://janitorai.com/) We are in Beta, join us on this journey to the inevitable. #ai
+- [Serper - The World's Fastest and Cheapest Google Search API](https://serper.dev/) Industry-leading SERP API, delivering lightning-fast Google search results in 1-2 seconds, at an unbeatable price starting at $0.30 per 1,000 queries. #API
+- [Ehco Relay](https://ehco-relay.cc/) https://github.com/Ehco1996/ehco #network
+- [Dygraphs — main page](https://dygraphs.com/)  #Chart
+- [HeyForm: The best open-source form builder](https://heyform.net/) A free form builder to craft customized surveys, questionnaires, quizzes, polls, etc. Sign up with HeyForm & create beautiful yet interactive free online forms. #Form表单
+- [Letterbird – A free contact form on the web that’s good enough](https://letterbird.co/) 用于博客 /msg #blog
+- [CSS Loaders: A collection of more than 600 loading animations](https://css-loaders.com/) The biggest collection of CSS-only loaders. More than 600 loading animations made by Temani Afif using a single element. #CSS
+- [Hiplot (ORG)](https://hiplot.cn/) Hiplot (ORG): cloud-based biomedical data visualization system. It is supported and maintained by the openbiox open source community. #dev
+- [深入架构原理与实践 | 深入架构原理与实践](https://www.thebyte.com.cn/) 构建大规模高可用的分布式系统 #dev
+- [雀乐](https://www.indie.cn) 独立 不独于世 #music
+- [MDN, indexed by Pagefind.](https://mdn.pagefind.app/) An entirely client-side full text search starting at 300kb #MDN
+- [Turns websites into data — Microlink](https://microlink.io/) Enter a URL, receive information. Normalize metadata. Get HTML markup. Take a screenshot. Identify tech stack. Generate a PDF. Automate web scraping. Run Lighthouse. #API
+- [ORCID](https://orcid.org/0009-0007-6150-4199)  
+- [The Charles Dickens Illustrated Gallery](https://www.charlesdickensillustration.org/) The Charles Dickens Illustrated Gallery contains all the original illustrations for Charles Dickens's novels. It is a free resource where can download, browse, share, remix and learn. #Draw
+- [TinyVG](https://tinyvg.tech/)  #SVG
+- [FlagWaver](https://krikienoid.github.io/flagwaver/) A web app for simulating a waving flag. #fun
+- [Runtime compatibility across JavaScript runtimes](https://runtime-compat.unjs.io/) Display APIs compatibility across different JavaScript runtimes. The data is retrieved from runtime-compat-data, based on MDN's format. #dev
+- [GitHub - ChartsCSS/charts.css: Open source CSS framework for data visualization.](https://github.com/ChartsCSS/charts.css) Open source CSS framework for data visualization. Contribute to ChartsCSS/charts.css development by creating an account on GitHub. #CSS
+- [各大语言模型 API 价格对比](https://blog.chs.pub/p/24-04-llmapiprice/)  #ai
+- [GitHub - Mayuresh1611/Paper-Piano: Piano like no other, Piano on Paper](https://github.com/Mayuresh1611/Paper-Piano) 用纸做钢琴 #fun
+- [CSS框架排行榜](https://www.libhunt.com/css)  #CSS
+- [3D DOM viewer, copy-paste this into your console to visualise the DOM topographically. · GitHub](https://gist.github.com/OrionReed/4c3778ebc2b5026d2354359ca49077ca) 将DOM转成3D效果，便于理解DOM的层次，很棒 #dev
+- [ExchangeRate-API - Free & Pro Currency Converter API](https://www.exchangerate-api.com/) Accurate & reliable Exchange Rates API trusted by tens of thousands of developers since 2010. Free access, all world currencies, helpful support & easy to integrate JSON API. #API#货币
+- [RSS to JSON Converter online - rss2json.com](https://rss2json.com/) Free online API to convert RSS to JSON #API
+- [Trancy for Chrome | Master a new language in an enjoyable way](https://www.trancy.org/) Trancy is a browser extension plugin that can help you learn a new language by watching YouTube and Netflix. You can turn your favorite content into learning material, which can improve your speaking and listening skills in a more realistic scenario. We have also integrated features from ChatGPT and Open AI to help you understand the meaning of words and analyze sentence grammar more deeply. Trancy is the most popular language learning Chrome extension plugin in 2023. #ai#english
+- [InvertOrNot](https://invertornot.com/) InvertOrNot.com is a website for classifying images by how to display in web dark-mode #API#dev
+- [oimo.io](https://oimo.io/works) works on oimo.io #fun
+- [Trending topics on Tumblr](https://www.tumblr.com/) Explore trending topics on Tumblr. See all of the GIFs, fan art, and general conversation about the internet’s favorite things. #社区
+- [Zotero](https://www.zotero.org/tianheg_/library) Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research. 
+- [Suno AI](https://www.suno.ai/) We are building a future where anyone can make great music. No instrument needed, just imagination. From your mind to music. #ai#music
+- [Devv](https://devv.ai/) GitHub登陆 #ai#dev
+- [natto - write JavaScript on a 2D canvas](https://natto.dev/)  #dev#fun
+- [emgithub](https://emgithub.com/)  #fun
+- [The Kanji Vector Graphics (KanjiVG) project - KanjiVG](https://kanjivg.tagaini.net/)  #SVG#汉字
+- [My Toddler Loves Planes, So I Built Her A Radar](https://jacobbartlett.substack.com/p/my-toddler-loves-planes-so-i-built) An adorable side project featuring SwiftUI, MapKit, and open-source APIs #fun
+- [The OpenSky Network - Free ADS-B and Mode S data for Research](https://opensky-network.org/)  #dev
+- [挖沙网](https://www.waasaa.com/) 音乐美文 #music
+- [writ.ly - Online Writing Platform.](https://www.writ.ly/) Empower your writing experience. #fun
+- [OpenGuessr - free geoguessr alternative](https://openguessr.netlify.app/) Free geoguessr alternative with unlimited free play - improve your geography skills by guessing the location on google street view. #fun
+- [IPCheck.ing - Check My IP Address and Geolocation - Check WebRTC Connection IP - DNS Leak Test - Speed Test - Jason Ng Open Source](https://ipcheck.ing/) A better IP Toolbox. Easy to check what's your IPs, IP information, check for DNS leaks, examine WebRTC connections, and test website availability #dev
+- [IP查询(ipw.cn) | IPv6测试 | IPv6在线Ping测试 | IPv6网站检测 | IPv6网站测速 | IPv6地址查询 | IP查询(ipw.cn)](https://ipw.cn/) 简单好用的IPv6工具箱：支持IPv6地址查询、 IPv6网络开通测试，支持IPv6在线Ping测试、IPv6网站检测、IPv6网站测速，致力于普及 IPv6 ,推进 IPv6 规模部署和应用。 #dev
+- [Chrome 开发者版  |  Chrome for Developers](https://developer.chrome.google.cn/) 帮助您在网络上构建应用、发展业务和开展创新。 #dev
+- [web.dev for China](https://web.developers.google.cn/) 构建可在任何浏览器上运行的现代 Web 体验的指南。 #dev
+- [Vivliostyle — Enjoy CSS Typesetting!](https://vivliostyle.org/) open source, web browser based CSS typesetting engine project #book
+- [Centers for Disease Control and Prevention](https://www.cdc.gov/) CDC is the nation’s leading science-based, data-driven, service organization that protects the public’s health. For more than 70 years, we’ve put science into action to help children stay healthy so they can grow and learn; to help families, businesses, and communities fight disease and stay strong; and to protect the public’s health. #health
+- [Visual Capitalist](https://www.visualcapitalist.com/) 各领域的可视化呈现 #Useful
+- [Read and write Chinese characters - 读写汉字 - 学中文](https://www.archchinese.com/) Learn Chinese characters with innovative Chinese-english dictionary, stroke order animations, online Chinese lessons and character writing worksheets. #中文学习
+- [YellowBridge Chinese Language and Culture](https://www.yellowbridge.com/)  #中文学习
+- [Learn to Read and Write Chinese - OMGChinese 疯狂中文](https://www.omgchinese.com/)  #中文学习
+- [Research Centre for Humanities Computing 人文電算研究中心](https://humanum.arts.cuhk.edu.hk/web/)  #中文学习
+- [GridNotes](https://gridnotes.io/v1/) gridnotes - infinite 2d text editor #fun
+- [NASA Earth Observatory - Home](https://earthobservatory.nasa.gov/) climate change, global climate change, global warming, natural hazards, Earth, environment, remote sensing, atmosphere, land processes, oceans, volcanoes, land cover, Earth science data, NASA, environmental processes, Blue Marble, global maps #fun
+- [Maui Project – Free and Open Source UI Framework](https://mauikit.org/) Maui Project provides a free and open-source modular front-end framework for developing fast and compelling user experiences. Made by Nitrux. #design#dev
+- [https://www.creditchina.gov.cn/](https://www.creditchina.gov.cn/)  #China
+- [Free online word cloud generator and tag cloud creator - WordClouds.com](https://www.wordclouds.com/) Wordclouds.com is a free online word cloud generator and tag cloud generator, similar to Wordle. Create your own word clouds and tag clouds. Paste text or upload documents and select shape, colors and font to create your own word cloud. Wordclouds.com can also generate clickable word clouds with links (image map). Save or share the resulting image. #fun
+- [Practice typing by retyping ENTIRE novels — TypeLit.io](https://www.typelit.io/) Typing Practice | Test your typing while reading great books like Alice in Wonderland, 1984, Dracula, and The Art of War — or import your own material! #fun
+- [《中国大百科全书》第三版网络版](https://www.zgbk.com/)  
+- [Website Explorer - http://elliott.computer/](https://explore.marginalia.nu/view)  #fun
+- [www.marginalia.nu @
+marginalia.nu](https://www.marginalia.nu/) Marginalia is a website, not a person. #fun
+- [About Ideas Now | Search 1000s of personal sites](https://aboutideasnow.com/) Find people to collaborate with by searching through the /about, /ideas and /now pages of 1000s of personal sites #fun
+- [Free Premium Mockups - Instant Download - Mockups-Design.com](https://mockups-design.com/) Download free mockups! Mockups Design is a site where you can find free premium mockups that can be used in your private and commercial work. #design
+- [ManyPixels – Unlimited Graphic Design | Try Now](https://www.manypixels.co/) Get everything you need designed for a flat monthly rate. Logos, web design, illustrations, ads – we do it all! Try ManyPixels today! #design
+- [無料で商用可のフリーイラスト素材｜Loose Drawing](https://loosedrawing.com/) シンプルなイラストが見つかるフリー素材サイト Loose Drawing。商用利用可能。広告、フライヤー、ポスター、企画書、スライド資料など様々なデザイン制作で使えるイラストを無料で更新しています。 #Draw
+- [IT Tools - Handy online tools for developers](https://it-tools.tech/) Collection of handy online tools for developers, with great UX. IT Tools is a free and open-source collection of handy online tools for developers & people working in IT. #dev
+- [Free Online Tools - AllinOne.Tools](https://allinone.tools/) All the online free tools you need. You can do anything from social media to conversions, and more using just a single free online tool. #dev
+- [Upscayl - Free AI Image Upscaler](https://www.upscayl.org/) Upscayl - Free and Open Source AI Image Upscaler #ai#图片放大
+- [Shots - Create Amazing Mockups](https://shots.so/) Create Amazing Mockups #design
+- [美叶-优质设计内容推荐平台](https://www.meiye.art/) 美叶，优质设计内容推荐平台。向设计从业者，推介不同设计细分领域的杰出代表。收集和归类优质设计内容，为设计师创作，提供有价值的灵感参照。助力设计，提升效率，为设计师研发高效能设计工具。 #design
+- [Supercreative](https://supercreative.design/) SUPERCREATIVE has been acquired. We built productivity tools to become super creative. #Idea#design
+- [元素周期表PRO - 高颜值化学必备工具](https://pt.ziziyi.com/)  #fun
+- [Language Reactor](https://www.languagereactor.com/) Language Reactor: your language learning toolbox. Discover, understand, and learn from native materials, including Netflix and YouTube. (Formerly called 'Language Learning with Netflix'.) #english
+- [Improve your English pronunciation using YouTube](https://youglish.com/) Use YouTube to improve your English pronunciation. Real people, real situations. #english
+- [UserWay | The Leading AI-Powered Web Accessibility Solution](https://userway.org/) Ensure ADA & WCAG compliance with UserWay’s web accessibility solutions, Widget, Scanner, Audit & PDF Remediation. Making the web accessible to all! #a11y
+- [Recite Me | Accessibility Software & Solutions](https://reciteme.com/us/) Recite Me is an Accessibility Software & Solutions provider - helping to create WCAG compliant websites and inclusive experiences online for disabled people. #a11y
+- [fal.ai](https://fal.ai/) Build real-time AI applications with lightning fast inference #ai
+- [YouTube Dubbing](https://www.youtube-dubbing.com/) 外语听不懂？字幕看太累？YouTube Dubbing助你把外语视频变成中文视频！ #YouTube
+- [Jazwares](https://www.jazwares.com/) Toys, action figures, musical instruments, collectibles and more, featuring cool brands like Fortnite, Peppa Pig, CoComelon, Roblox toys, Nerf games, First Act, Domez, Nanables, and so much more! Jazwares Toys are for kids of all ages, from babies to adults. Jazwares - where ingenuity, creativity, and play come together! #fun
+- [开源社-高天贺主页](https://kaiyuanshe.cn/member/%E9%AB%98%E5%A4%A9%E8%B4%BA)  #dev
+- [TCPView for Windows - Sysinternals | Microsoft Learn](https://learn.microsoft.com/en-us/sysinternals/downloads/tcpview) Active socket command-line viewer. #dev#network
+- [向播客提问](https://dexa.ai/)  #ai
+- [Ask HN: Can we do better than Git for version control? | Hacker News](https://news.ycombinator.com/item?id=38590080)  #dev
+- [GitHub - anderspitman/SirTunnel: Minimal, self-hosted, 0-config alternative to ngrok. Caddy+OpenSSH+50 lines of Python.](https://github.com/anderspitman/SirTunnel) Minimal, self-hosted, 0-config alternative to ngrok. Caddy+OpenSSH+50 lines of Python. - anderspitman/SirTunnel #dev
+- [Localtunnel ~ Expose yourself to the world](https://theboroer.github.io/localtunnel-www/) Expose yourself to the world #dev
+- [background-erase.xyz,Instant AI-Powered Background Removal with RMBG V1.4 - Fast, Efficient, and Free!](https://background-erase.xyz/) Remove background in seconds #image
+- [GitHub - xthezealot/npmprune: Prune unnecessary files from node_modules](https://github.com/xthezealot/npmprune) docker打包时减小容器体积 #dev#docker
+- [Keep Screen On - A page to prevent your device from sleeping](https://www.keepscreenon.com/) Keep your device screen always on with a simple click. Say goodbye to interruptions caused by screen timeouts. Keep Screen On offers an easy solution to keep your device alert, ensuring uninterrupted usage while reading, watching, or multitasking. Experience a hassle-free browsing experience with our convenient tool. Keep your screen on and your device engaged with Keep Screen On - the perfect companion for extended screen time. #fun
+- [Wild World map - prints available now!](https://www.antonthomasart.com/wild-world.html) Wild World is the new map by cartographer Anton Thomas. A world map focused on the natural world, it has 1,600+ animals and is a vivid portrayal of Earth's natural geography. #fun
+- [RAM Prices](https://ramstickprices.com) Comparison of all RAM sticks on Amazon, sorted by price per GB #内存
+- [Mythic Beasts - Mythic Beasts](https://www.mythic-beasts.com/) Managed and unmanaged VPS and dedicated servers, shared web and email hosting, domain registrations and DNS hosting, UK based #Cloud
+- [Codemagic - CI/CD for Android, iOS, Flutter and React Native projects](https://codemagic.io/start/) Boost your mobile app development with continuous integration and delivery. Replace manual intervention and build, test and deliver mobile apps 20% faster with CI/CD for mobile #dev#iOS
+- [Usecue CMS Documentation](https://cms.usecue.com/)  #Hugo
+- [Free Online Games on CrazyGames | Play Now!](https://www.crazygames.com/) Play free online games at CrazyGames, the best place to play high-quality browser games. We add new games every day. Have fun! #game
+- [Time Converter and World Clock - Conversion at a Glance - Pick best time to schedule conference calls, webinars, online meetings and phone calls.](https://www.worldtimebuddy.com/) Effortless time conversion and world time. Schedule conference calls, webinars & online meetings, plan travel and track flight arrival time across time zones. #Time
+- [Mini Tokyo 3D](https://minitokyo3d.com/) A real-time 3D digital map of Tokyo's public transport system. This data visualization was produced by Akihiko Kusanagi. #3D
+- [智谱AI开放平台](https://open.bigmodel.cn/overview) 大模型开放平台-新一代国产自主通用AI开放平台，致力于将产品技术与行业场景双轮驱动的中国先进的认知智能技术和千行百业应用相结合，构建更高精度、高效率、通用化的AI开发新模式，实现智谱大模型的产业化，将AI的好处带给每个人。 #ai
+- [阿里云盘资源分享 永久地址](https://slowread.net/ali.html)  #阿里云盘
+- [Fandom](https://www.fandom.com/) The entertainment site where fans come first. Your daily source for all things TV, movies, and games, including Star Wars, Fallout, Marvel, DC and more. #Wiki
+- [此刻电影日历](https://www.cikeee.cc/m) 此刻 电影日历，每天发现心电影。电影爱好者的心灵港湾，在这里，发现电影，享受电影，分享电影。 #Movie
+- [Groups.io: Powerful Email Groups & Collaboration Platform](https://groups.io/)  #email
+- [Wayfinder Ventures](https://www.wayfinder.com/) Wayfinder Ventures is a San Francisco based early stage venture fund #投资
+- [Computer Memory RAM SSD Upgrades - Laptop, Desktop, Server, Mac | Mr Memory®](https://www.mrmemory.co.uk/) Memory RAM SSD Computer Upgrades - Use our simple upgrade finder. Low Prices, Low Cost Delivery, Lifetime Warranty, Guaranteed Compatible. Upgrade your Laptop, Notebook, Netbook, Desktop, Server, Mobile Phone, Tablet or Camera #Memory
+- [三星半导体中国官网 | 三星半导体官网](https://semiconductor.samsung.com/cn/) 三星提供新一代的半导体产品，包括动态随机存取存储器、固态硬盘、处理器、图像传感器以及广泛的趋势技术组合。 #Memory#SSD
+- [The GRAHAM NORTON Show Videos - Dailymotion](https://www.dailymotion.com/tgnshow) I upload in HD regularly. Pls Subscribe & Enjoy it :) #Entertainment
+- [Be My Eyes - See the world together](https://www.bemyeyes.com/) Whether you need a pair of sharp eyes or have some sight to lend, Be My Eyes is a simple, free tool to support people see the world better, together. 
+- [Healthy relationships for young adults | love is respect](https://www.loveisrespect.org/) Healthy relationships for young adults can be confusing. Love is more than just the way you feel, and we're here to help. #health#亲密关系
+- [Dark Visitors - A list of known AI agents on the internet](https://darkvisitors.com/) Insight into the hidden ecosystem of autonomous chatbots and data scrapers crawling across the web #ai
+- [Disk Prices (US)](https://diskprices.com/) Comparison of all hard drives and SSDs on Amazon, sorted by price per TB #装机
+- [Common Sense Media: Age-Based Media Reviews for Families | Common Sense Media](https://www.commonsensemedia.org/) 媒体适宜年龄观看评级 Common Sense Media is the leading source of entertainment and technology recommendations for families. Parents trust our expert reviews and objective advice. #Useful
+- [ChemCollective](https://chemcollective.org/home) Online Resources for Teaching and Learning Chemistry #化学
+- [GitHub - niccokunzmann/open-web-calendar: Embed a highly customizable web calendar into your website using ICal source links](https://github.com/niccokunzmann/open-web-calendar) Embed a highly customizable web calendar into your website using ICal source links - GitHub - niccokunzmann/open-web-calendar: Embed a highly customizable web calendar into your website using ICal source links #Cal
+- [Google Calendar](https://calendar.google.com) Use Google Calendar to share meetings and schedule appointments, for managing what matters in your business and personal life, with Google Workspace. #Cal
+- [Free Printable 2024 Calendar: Holiday Calendar 2024 & Blank Calendar](https://www.calendarlabs.com/) We provide printable free calendar of 2024, 2025 & so on with holidays. Download various 2024 yearly & monthly calendar templates. Blank calendars are also here to print & download. #Cal
+- [Inpaint-web](https://inpaintweb.lxfater.com/) A free and open-source inpainting tool powered by webgpu and wasm on the browser. #image
+- [Transhumans: Open Source Punk Sci-Fi Art Collection by Pablo Stanley](https://www.transhumans.xyz/) Transhumans, a collection of black and white illustrations inspired by punk rock, transhumanism, and minimalist Japanese art. Created by Pablo Stanley, these open-source pieces are free to download and remix. Dive into the bold and imperfect brush strokes of this unique collection 
+- [pride magnet poetry](https://avas.space/magnetpoetry/)  #fun
+- [渺软公益 CDN - 国内线路加速 jsDelivr UNPKG cdnjs 开发者自用CDN](https://cdn.onmicrosoft.cn/) 渺软 CDN 是一个高速、简单、开箱即用的公益 CDN 服务。我们希望能为中国开发者提供一个更好的网站体验，让中国开发者体验到速度优异的前端静态资源。 #CDN
+- [Reversi](https://luduxia.com/reversi/)  #fun#game
+- [NateGolf](https://squigglegolf.com/game/)  #fun#game
+- [文生图 by Meta](https://imagine.meta.com/) 生成效果惊为天人 #ai
+- [Solo AI Website Builder](https://soloist.ai/) SiteBuilder by Mozilla #ai
+- [MyLens](https://mylens.ai/) Discover the intersections of history with our AI-powered timelines. Dive deep into the narratives of the past and see where two unique histories meet. Create, explore, and connect stories seamlessly. #ai
+- [ONLYOFFICE - Secure Online Office | ONLYOFFICE](https://www.onlyoffice.com/) ONLYOFFICE offers a secure online office suite highly compatible with MS Office formats. Connect it to your web platform for document editing and collaboration or use as a part of ONLYOFFICE Workspace. #Office
+- [You AI Search](https://you.com/)  #ai
+- [Perplexity Labs](https://labs.perplexity.ai/)  #ai
+- [Runway - Advancing creativity with artificial intelligence.](https://runwayml.com/) Runway is an applied AI research company shaping the next era of art, entertainment and human creativity. #ai
+- [Nydus - Acceleration Framework For Cloud-Native Distribution](https://nydus.dev/) Nydus Provides Fast, Secure And Easy Access to Data Distribution #docker
+- [AiShort(ChatGPT Shortcut)-简单易用的 AI 快捷指令表，让生产力倍增！ | AiShort(ChatGPT Shortcut)-AI Prompt Management,Productivity Tool](https://www.aishort.top/) AI Short 是一款用于管理和分享 AI 提示词的工具，帮助用户更有效地定制、保存和共享自己的提示词，以提高生产力。该平台还包括一个提示词分享社区，让用户轻松找到适用于不同场景的指令。 #ai
+- [Zeabur - Deploying your service with one click](https://zeabur.com/) A platform that help you deploy your service with one click, No matter what programming language you use, what framework you use. #SaaS
+- [Docker Proxy 镜像加速](https://dockerproxy.com/)  #Proxy
+- [https://ghproxy.com/](https://ghproxy.com/)  #Proxy
+- [心知天气](https://www.seniverse.com/)  #天气API
+- [GigaBrain - Search Reddit and Other Communities for Answers from Real People](https://thegigabrain.com/) GigaBrain finds the most useful discussions on reddit and other communities. We sift through the noise and analyze billions of comments for you. Get real answers from real people. #Reddit
+- [2023年最好的VPS推荐](https://vpsranking.com/zh/)  #VPS
+- [提倡者 (INFJ-A) | 16Personalities](https://www.16personalities.com/ch/%E7%BB%93%E6%9E%9C/infj-a/x/mc9r9se09)  #性格测试
+- [v0 by Vercel](https://v0.dev/) Generate UI with simple text prompts. Copy, paste, ship. #dev
+- [LLM Visualization](https://bbycroft.net/llm) A 3D animated visualization of an LLM with a walkthrough. #ai
+- [PeeringDB](https://www.peeringdb.com/)  #network
+- [GitHub Copilot for Docs](https://copilot4docs.githubnext.com/)  #ai
+- [Connected Papers | Find and explore academic papers](https://www.connectedpapers.com/) Connected Papers is a visual tool to help researchers and applied scientists find academic papers relevant to their field of work. #学术
+- [PassMark Software - PC Benchmark and Test Software](https://www.passmark.com/)  #主机软件测试
+- [GitHub - arxiv-vanity/arxiv-vanity: Renders papers from arXiv as responsive web pages so you don't have to squint at a PDF.](https://github.com/arxiv-vanity/arxiv-vanity) 美化论文阅读，转成HTML #学术
+- [PopAi: Better AI with Boosted Answers](https://www.popai.pro/) 一键生成PPT #ai
+- [Moody's - credit ratings, research, and data for global capital markets](https://www.moodys.com/)  #政府信用
+- [Mapping Ideas That Change the World](https://www.mymap.ai/) MyMap turns your text ideas into visuals like mind maps and presentations through a simple chat interface. Ideal for students, teachers, and professionals with no design skills required. It’s your time-saving tool for easy, collaborative visual creation #ai
+- [台式机装机方案 | Reimu's blog](https://blog.k8s.li/pc-e5v3-e3v3-amd2600.html) TL  分享一个装机方案：CPU: E5 2670V3 ×2主板: Dell T7810 准系统内存: 三星 DDR4 2133 16G×4显卡: Quador K2000 2GB硬盘: 西数 HC310 7K 4TB固态: 三星 PM 981 256GB价格: 550×2+1700+260×4+400+760+290=5290￥你就能拥有一台 24C/48T CPU、64GB RAM 、256G #装机
+- [立创商城_一站式电子元器件采购自营商城-嘉立创电子商城](https://www.szlcsc.com/) 立创商城(SZLCSC.COM) 一站式电子元器件采购自营商城，拥有10万+平米智能化仓储，现货SKU品类43万种，原装正品，最快4小时发货，为用户提供一站式电子元器件线上采购服务。嘉立创集团提供“EDA软件/PCB CAM软件、PCB智造、元器件商城、 激光钢网/治具 、SMT贴片”为一体的电子全产业链服务，助力全球硬件创新。 #电子
+- [CurrencyBeacon - Real-Time and Historical Currency Rates API - CurrencyBeacon](https://currencybeacon.com/) CurrencyBeacon is an enterprise-grade and developer-friendly currency rates REST API with real-time and historical exchange rates for 168 world currencies and 1600 cryptocurrencies. #货币
+- [The Systems Thinker – The Systems Thinker -](https://thesystemsthinker.com/)  #提升思维能力
+- [Phind](https://www.phind.com/)  #Search#ai
+- [旗下扑街街的个人空间-旗下扑街街个人主页-哔哩哔哩视频](https://b23.tv/khqPQD4) 哔哩哔哩旗下扑街街的个人空间，提供旗下扑街街分享的视频、音频、文章、动态、收藏等内容，关注旗下扑街街账号，第一时间了解UP主动态。就是瞎唠 #fun
+- [iFixit：免费修理手册](https://zh.ifixit.com/) iFixit 是一个以维修为主题的全球性互助社区。从一个一个的设备开始，让我们来一步一个脚印一点一点的修复这个世界。你可以在问题解答论坛和专家一起互动——还可以创建并与全世界分享由你编篡的维修手册。你可以在这里买到所有关于你的 DIY 维修计划的配件及工具，帮助修复好你的苹果或安卓设备。 #维修
+- [Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/) The technology has resulted in a host of cutting-edge AI applications — but its real power lies beyond text generation #ai
+- [LOST – Self-discovery Through Travel](http://lostmagazine.org/)  
+- [Play with 2.13 inch E-Ink display | 猫·仁波切](https://andelf.github.io/blog/2021/01/14/play-with-2-13-inch-e-ink-display/) 故事从买屏幕说起。 #Kindle
+- [Gamma App: Generate AI Presentations, Webpages & Docs](https://gamma.app/) A new medium for presenting ideas, powered by AI. Create beautiful, engaging content with none of the formatting and design work. #PPT
+- [Learn Ruby on Rails | GoRails](https://gorails.com/) Screencast tutorials to help you learn Ruby on Rails, Javascript, Hotwire, Turbo, Stimulus.js, PostgreSQL, MySQL, Ubuntu, and more. #dev
+- [Posthaven is the safe place for all your posts forever](https://posthaven.com/) We'll never get acquired. We'll never shut down. You pay, we keep the lights on. 付费满一年，之后会一直让博客在线 #fun
+- [政治学习简明指南 - by wuyagege - 不如读书](https://wuyagege.substack.com/p/4f8) 从入门到进阶 #Read#政治
+- [currency货币API](https://currencyapi.com/) Currencyapi.com is a free, reliable & feature complete currency exchange rates API. 170+ world currencies & 60 second update rate. #dev#货币
+- [希望站](https://www.fhope.cn/) None #中医
+- [Archive Your Old Projects](https://arne.me/articles/archive-your-old-projects) In this post I describe how I wish I had archived all my old projects and my approach going forward. #整理文档
+- [11.01 Introduction║J•D](https://johnnydecimal.com/) Johnny.Decimal is a system to organise your stuff #整理文档
+- [MuscleWiki - Simplify your workout](https://musclewiki.com/) MuscleWiki is a fitness app with a comprehensive exercise library that includes videos and written instructions for over 2000 exercises. With a simple and intuitive bodymap that guides you to exercises for a particular muscle, you can simplify your workout with exercises suitable for beginners, intermediate and advanced fitness enthusiasts. #身体
+- [Just a moment...](https://www.newspapers.com/)  #Useful
+- [Talbica 3: Periodic Table and Chemical Reactions Database](https://www.talbica.com/) Periodic table and Chemistry tools for university and school students, as well as for laboratory workers. Reactions database and compound reference. Photos of chemical elements #化学
+- [Mobile Plans, Phones & Broadband | Skinny NZ](https://www.skinny.co.nz/) Skinny does award winning prepay mobile and broadband at great prices across NZ, it's that simple. Find out more here today. Skinny NZ. #国外手机卡
+- [Builder.io: Design to Shipped. Faster.](https://builder.io/) The only Visual Headless CMS that gives developers, marketers, and product managers the freedom they need to ship content and experiences with fewer tickets. #dev
+- [作业纸打印](https://www.dayin.page/)  #fun
+- [省市县](https://www.shengshixian.com/) 长时间序列行政区划数据 #中国地理
+- [五级区划查询与下载](https://map.ruiduobao.com/)  #中国地理
+- [Patterns.dev](https://www.patterns.dev/) Learn JavaScript design and performance patterns for building more powerful web applications. #dev
+- [China Digital Times (CDT) – Covering China from Cyberspace](https://chinadigitaltimes.net/)  #China
+- [Deck for Reddit](https://rdddeck.com/) Deck for Reddit - A desktop optimized, alternative way to browse Reddit. #Reddit
+- [Reddit Favorites](https://redditfavorites.com/)  #Reddit
+- [Learn Anything](https://learn-anything.xyz/)  #Learn
+- [Learn i18n](https://www.w3.org/International/i18n-drafts/nav/learn) Resources of the W3C Internationalization Activity. #dev#i18n
+- [xkcd: Breaker Box](https://xkcd.com/)  
+- [explain xkcd](https://www.explainxkcd.com/wiki/index.php/Main_Page) Explain xkcd is a wiki dedicated to explaining the webcomic xkcd. Go figure. 
+- [Book Reviews by Danny Yee (fiction + nonfiction)](https://dannyreviews.com/) 这个人写了很多年书评 #Read
+- [SFE: SF Encyclopedia Home Page – Monday 30 October 2023](https://sf-encyclopedia.com/) 科幻小说百科 #Read
+- [The Internet Speculative Fiction Database](https://www.isfdb.org/cgi-bin/index.cgi) 互联网科幻小说数据库 #Read
+- [Noted - Self Hosted App and Product Reviews](https://noted.lol/) Maximize Your Homelab Potential with Self-Hosting and Open-Source Solutions #Selfhost
+- [Libby](https://libbyapp.com/)  #Read
+- [72 小时勘破肉体：清阳的断食自我实验日志](https://conge.livingwithfcs.org/2023/10/27/fasting/) 起因起因我通常都是一遍跑步一遍听书。这个周六，听的是《Fast Like a Girl》。听得并不像平时那样专心，因为我正在为我的左脚苦恼：我的跖骨又开始疼了。除了少跑，按摩，理疗，我还能做些什么呢？这时候，耳机里传来一段话：72 小时的断食，能让身体激活干细胞生产……干细胞不仅会修复免疫系统，他们能修复任何... 
+- [基于本地 AI 大模型的 Emacs 翻译插件](https://manateelazycat.github.io/2023/10/20/use-ollama-as-translator/)  #Emacs
+- [微雪电子-官网](https://www.waveshare.net/) 深圳市微雪电子有限公司(waveshare)是一家高新技术企业，专业研发生产树莓派Raspberry Pi扩展板、Jetson Nano扩展板以及高清LCD/OLED显示屏等产品，产品线超过10条，有着自主核心技术、创新能力以及良好的行业口碑，拥有过百项知识产权，至今已有十几年的行业沉淀。 #公司
+- [Frame Labs – Digitale Kunst fürs Wohnzimmer](https://framelabs.eu/en/) 电子墨水驱动的电子相册 #Kindle
+- [A new era of authentication - Kinde](https://kinde.com/) Simple, powerful authentication you can integrate with your product in minutes. #Login-Service#dev
+- [Reading, and not forgetting](https://bitspook.in/blog/reading-and-not-forgetting/)  #Read
+- [https://reader.bionic-reading.com/](https://reader.bionic-reading.com/)  #Read
+- [Please Make a Better Kindle - Chain of Thought - Every](https://every.to/chain-of-thought/please-make-a-better-kindle) It could be 10x better, here’s how #Kindle
+- [Just a moment...](https://magazinelib.com/)  #Read
+- [Bram.us – A rather geeky/technical weblog, est. 2001, by Bramus](https://www.bram.us/)  #CSS
+- [LinuxMirrors · 让换源更简单 - LinuxMirrors](https://linuxmirrors.cn/)  #Linux
+- [EmacsWiki: Site Map](https://www.emacswiki.org/emacs/SiteMap)  
+- [Random Name Generator - Behind the Name](https://www.behindthename.com/random/) This random name generator can suggest names for babies, characters, or anything else that needs naming. #Privacy
+- [AnyBT](https://anybt.eth.limo/) A BitTorrent Search Engine works on ENS and IPFS. #BT磁力
+- [Podwise | The premier knowledge management app for podcast listeners](https://podwise.ai/) The premier learning app for podcast listeners. Learn from structured knowledge and selectively listen to chapters that pique your interest. #Podcast
+- [穷游锦囊_旅游指南路书下载_自助游攻略 - 穷游锦囊](http://guide.qyer.com/) 穷游锦囊：是你自助旅游的优选，这里的忠告都来自经验丰富的穷游er们，我们亲手绘制的地图包括了重要的境外自助游景点，地标和街道，帮你更好探索陌生的城市。 #游玩
+- [Zed - Code at the speed of thought](https://zed.dev/)  #dev
+- [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 (Still No Excuses!) @ tonsky.me](https://tonsky.me/blog/unicode/)  #dev#unicode
+- [DNS Privacy Project :: dnsprivacy.org](https://dnsprivacy.org/)  #dev#dns
+- [Pocket Guide to Writing SVG](https://svgpocketguide.com/) A quick but thorough “pocket” sized reference to get started writing Scalable Vector Graphics by Joni Trythall #dev
+- [SQLite Viewer Web App](https://sqliteviewer.app/) A free online SQLite Explorer, inspired by DB Browser for SQLite and Airtable. Use this web-based SQLite Tool to quickly and easily inspect sqlite files on the web. #dev
+- [Rectangles](https://rectangles.app/) Visualize your day as 144 rectangles, where each rectangle represents 10 minutes. 
+- [explainshell.com - match command-line arguments to their help text](https://explainshell.com/) match command-line arguments to their help text #dev
+- [Incomplete List of Mistakes in the Design of CSS    [CSS Working Group Wiki]](https://wiki.csswg.org/ideas/mistakes)  
+- [Accessibility Support](https://a11ysupport.io/)  #a11y
+- [Readwise](https://readwise.io/dashboard) Grow wiser and retain books better: Readwise sends you a daily email resurfacing your best highlights from Kindle, Instapaper, iBooks, and more. #Read
+- [Andrew DeGraff](http://www.andrewdegraff.com/) 电影剧情插画 
+- [Du Xiao](https://duxi.ao/) Du Xiao is the co-founder and managing partner of the creative design studio Dine. #fun
+- [I Miss My Bar - Recreate Your Favorite Bar's Atmosphere](http://imissmybar.com/) A modern digital artifact recreating the atmosphere of our favorite local bars to keep us company while it’s safe to visit them again. An initiative by Maverick Monterrey. #music
+- [GitHub - KittyGiraudel/a11y-dialog: A very lightweight and flexible accessible modal dialog script.](https://github.com/KittyGiraudel/a11y-dialog) A very lightweight and flexible accessible modal dialog script. - GitHub - KittyGiraudel/a11y-dialog: A very lightweight and flexible accessible modal dialog script. #a11y
+- [24 Accessibility - 24 days of accessibility gifts during the season of giving and sharing](https://www.24a11y.com/) Article series offering 24 days of digital accessibility gifts of wisdom and insight from a wide array of knowledge experts throughout the world. #a11y
+- [Accessibility checklist - MagentaA11y](https://www.magentaa11y.com/) The accessibility acceptance criteria testing checklist generator by T-Mobile - Accessibility Resource Center #a11y
+- [PWA Web Store](https://store.app/)  #Use
+- [imgix - The End-to-End Visual Media Solution](https://imgix.com/) imgix transforms, optimizes, and intelligently caches your entire asset library for faster pages, higher engagement, and a simpler workflow. #dev#image
+- [Curlie - The Collector of URLs](https://curlie.org/en) Curlie directory main page for language English #百科
+- [Color Safe - accessible web color combinations](http://colorsafe.co/) Color Safe is a tool to explore beautiful, accessible color palettes for your website based on Web Content Accessibility Guidelines (WCAG). #a11y#color
+- [Colorblind Accessibility Manifesto](https://colorblindaccessibilitymanifesto.com/)  #a11y
+- [Deafverse – #ChooseYourFuture](https://deafverse.com/)  #a11y
+- [Send to Kindle | Amazon](https://www.amazon.com/sendtokindle)  #Kindle
+- [Darn Tough Vermont - Merino Wool Socks Guaranteed for Life](https://darntough.com/) Guaranteed for life and made in the USA, Darn Tough socks are the best merino wool socks for hiking, running, work, and everyday wear. #袜子
+- [Visual Studio Code for the Web](https://vscode.dev/)  #dev
+- [js13kGames - HTML5 and JavaScript Game Development Competition in just 13 kilobytes](https://js13kgames.com/) Js13kGames is a JavaScript coding competition for HTML5 game developers. The fun part of the compo is the file size limit set to 13 kilobytes. #dev#game
+- [GitHub - abrenaut/posio: A multiplayer geography game using Websockets](https://github.com/abrenaut/posio) A multiplayer geography game using Websockets. Contribute to abrenaut/posio development by creating an account on GitHub. #game
+- [awesome-selfhosted](https://awesome-selfhosted.net/) A list of Free Software network services and web applications which can be hosted on your own servers #dev
+- [ntfy.sh | Send push notifications to your phone via PUT/POST](https://ntfy.sh/)  #dev
+- [圈內人集合！測測你是什麼屬性的人？](https://event.designexpo.org.tw/) 立刻點擊，找到自己的圈圈！ #fun
+- [The best SaaS Web Design Inspiration | Saaspo](https://www.saaspo.com/) A curated collection of the best SaaS websites on the web. #产品开发
+- [關於本系列 | Beyond XSS](https://aszx87410.github.io/beyond-xss/) 身為一個軟體工程師，對資訊安全一定不陌生。在工作上的專案可能有經過資安的審核，包括靜態程式碼掃描、弱點掃描或是滲透測試等等，再更進階一點可能做過更全面的紅隊演練。除此之外，也可能聽過什麼是 OWASP，大概知道 OWASP top 10 包含了哪些東西，知道常見的資安漏洞有哪些。 #dev
+- [dummies - Learning Made Easy](https://www.dummies.com/) dummies transforms the hard-to-understand into easy-to-use to enable learners at every level to fuel their pursuit of professional and personal advancement. #Summary
+- [Reddit - Dive into anything](https://www.reddit.com/search/?q=book+summary+tools&type=link)  #Summary
+- [HN Search powered by Algolia](https://hn.algolia.com/?dateRange=all&prefix=false&query=book%20summary&sort=byPopularity&type=story) Hacker News Search, millions articles and comments at your fingertips. #Summary
+- [When Then Zen](https://when-then-zen.christine.website/)  #冥想
+- [Ancient Earth globe](https://dinosaurpictures.org/ancient-earth/#240) Earth looked very different long ago. Search for addresses across 750 million years of Earth's history. #fun
+- [Ask HN: Hey Drew, why is Dropbox becoming so bad? | Hacker News](https://news.ycombinator.com/item?id=24991820)  #Dropbox
+- [Dropbox - ArchWiki](https://wiki.archlinux.org/title/Dropbox)  #Dropbox
+- [Just a moment...](https://medium.com/unapologetically-digital/4-reasons-why-we-are-leaving-dropbox-126e79f3a49)  #Dropbox
+- [Dropbox as a True Git Server](https://anishathalye.com/dropbox-as-a-true-git-server/) git-remote-dropbox is now on PyPI! #Dropbox
+- [My one-liner Linux Dropbox client](https://lpan.github.io/one-liner-dropbox-client/) In this blog post, I want to discuss one of my recent attempts to create asimple one-liner Linux Dropbox client using only free and open-sourcecomponents, in... #Dropbox
+- [Remotion | Make videos programmatically](https://www.remotion.dev/) Create MP4 motion graphics in React. Leverage CSS, SVG, WebGL and more technologies to render videos programmatically! #Useful
+- [SearXNG instances](https://searx.space/) Online and offline SearXNG instances #Search
+- [Ideas from Top Books in 3m or less - BookStash](https://bookstash.io/) Read summaries from top books recommended by famous folk like Elon Musk or Bill Gates. Get smarter during a coffee or short break #book
+- [Stop Non-Consensual Intimate Image Abuse | StopNCII.org](https://stopncii.org/) StopNCII.org is operated by the Revenge Porn Helpline which is part of SWGfL, a charity that believes that all should benefit from technology, free from harm. #Useful
+- [Wayback HN](http://www.waybackhn.com/)  #hn
+- [calmer news](https://calmernews.com/) A modified UI for Hacker News, starting with dark mode and no comments (by default). Not affiliated with Y Combinator or Hacker News in any way. #hn
+- [How to Read: Lots of Inputs and a Strong Filter · Collab Fund](https://collabfund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter/) My reading strategy is to start as many books as I can but finish few of them. #Read
+- [The Steve Jobs Archive](https://stevejobsarchive.com/) The Steve Jobs Archive is the authoritative home for Steve’s story and a resource to help new generations make their own mark. #SteveJobs
+- [News Minimalist — Only important news](https://www.newsminimalist.com/) News Minimalist is the AI curator that finds the 1% of stories actually worth reading. Experience only important news without junk, clickbait, or ads. #Summary#ai
+- [V2EX](https://v2ex.com/) 创意工作者的社区。讨论编程、设计、硬件、游戏等令人激动的话题。 #社区
+- [Firefox Developer Experience](https://fxdx.dev/) Your Go-To Resource for Web Development & Compatibility #dev
+- [SolarWriter](https://solarwriter.msol.io/) Wifi连接手机、Kindle和蓝牙键盘，类似的 https://github.com/rberenguel/PiWrite #fun
+- [The Role of Exercise in Management of Mental Health Disorders: An Integrative Review - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8020774/)  #health
+- [Configuring Identity Adam Jacob, Chef, and the Search for Self in Software - CoRecursive Podcast](https://corecursive.com/configuring-identity-adam-jacob/) Today we go behind the scenes at Chef - the game changing infrastructure automation tool. Adam Jacob created Chef, and it became a massively popular DevOps tool. But despite Chef's success, Adam constantly battled self-doubt and finding his footing as a leader. In this raw episode, Adam shares how the pressure of going from sysadmin to startup CTO caused an... […] #Story
+- [Introducing Web Sustainability Guidelines | 2023 | Blog | W3C](https://www.w3.org/blog/2023/introducing-web-sustainability-guidelines/) The Sustainable Web Design Community Group announced draft guidelines on Sustainable Web Design, that explain how to design and implement digital products and services that put people and the planet first. #dev
+- [Responsively App - A web developer's browser](https://responsively.app/) A dev-tool that aids faster and precise responsive web development. #dev
+- [txtify.it](https://txtify.it/) Convert web articles to plain text #Text
+- [FiveFilters.org](https://www.fivefilters.org/) At FiveFilters.org we focus on: Developing software to make web articles more accessible. Engaging in media activism to highlight bias and promote non-corporate, independent media. #Company
+- [We are Good Enough.](https://goodenough.us/) We build useful, well-made products. We hope you enjoy them.
+
+有趣公司构建的有趣产品 #Company
+- [Free for Developers](https://free-for.dev/#/) Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions. #dev
+- [Luyao Zhang](https://zhangluyao.com/) Luyao's blog #Useful
+- [Podcast #741: The Exercise Prescription for Depression and Anxiety | The Art of Manliness](https://www.artofmanliness.com/health-fitness/health/podcast-741-the-exercise-prescription-for-depression-and-anxiety/)  #health
+- [孤独项目](https://www.thelonelinessproject.org/)  
+- [DeepL翻译：全世界最准确的翻译](https://www.deepl.com/translator)  
+- [HackYourNews](https://hackyournews.com/)  
+- [使用任意背景生成想要的二维码](https://www.qrpicture.com/)  
+- [历史](https://history-maps.com/zh)  
+- [Deepnote 数据可视化with python](https://deepnote.com/)  
+- [Home | Observable 数据可视化 through JS](https://observablehq.com/@tianheg)  
+- [Pricing plans 用户登陆方案](https://logto.io/pricing)  
+- [Lindy HN](https://hn.lindylearn.io/) The best Hacker News posts, from 1321 to 2022 #hn
+- [Dropbox Tech Blog - Dropbox](https://dropbox.tech/)  
+- [Have I Been Pwned: Check if your email has been compromised in a data breach](https://haveibeenpwned.com/)  
+- [Resilio File Sync Software | Unify, Control, and Accelerate Global Enterprise File Workflows](https://www.resilio.com/)  
+- [主页 | 明日故乡 - 找到你的下一个旅居点](https://guxiang.app/filter-home/)  
+- [Cost of Living 选择宜居城市](https://www.numbeo.com/cost-of-living/)  
+- [Scan of the Month—you've never seen anything like this.](https://www.scanofthemonth.com/)  
+- [法律草案征求意见](http://www.npc.gov.cn/flcaw/)  
+- [GitHub · Where software is built](https://github.com/dashboard-feed)  
+- [Web EasyShare vivo](http://vs.vivo.com/)  
+- [落网 - 落网记忆](https://www.luoow.com/)  
+- [竖排中文 首頁- 好讀](https://www.haodoo.net/)  
+- [有据 | 国际新闻事实核查](https://chinafactcheck.com/)  
+- [医疗搜索AI](https://medisearch.io/)  
+- [TAGInternet 3 个月后 (2023-11-16) 套餐到期](https://tagss01.pro/#/home)  
+- [MindOS](https://mindos.com/marketplace)  
+- [The ideal viewport doesn’t exist](https://viewports.fyi/)  
+- [Pinia Tasks](https://t.tianheg.org/)  
+- [Maskable.app](https://maskable.app/)  #web
+- [SVGOMG - SVGO's Missing GUI](https://jakearchibald.github.io/svgomg/)  
+- [DailyArt Courses - The Best Art History Classes Online](https://courses.dailyartmagazine.com/)  
+- [网页里的电脑博物馆](http://www.compumuseum.com/)  
+- [元·思维世界](https://meta.tianheg.org/)  
+- [Sikana | Improve your life - one skill at a time](https://www.sikana.tv/en)  
+- [npmgraph -](https://npmgraph.js.org/)  
+- [AstroBin](https://welcome.astrobin.com/)  
+- [收入街区](https://www.gapminder.org/dollar-street)  
+- [Dler Cloud](https://dlercloud.com/)  
+- [NeoDB - 发现](https://neodb.social/discover/)  
+- [云图，流星雨](https://www.windy.com/?39.018,-77.539,5)  
+- [WhoCanUse](https://www.whocanuse.com/)  
+- [Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles)  #Frontend
+- [Home | Linux Journey](https://linuxjourney.com/)  
+- [Home Tech Blog - sysxplore](https://sysxplore.com/)  
+- [Linux Survival | Where learning Linux is easy](https://linuxsurvival.com/)  
+- [Linux Tips, Tricks and Tutorials | Linuxize](https://linuxize.com/)  
+- [Linux Handbook](https://linuxhandbook.com/) Bash Ansible Proxmox Podman 
+- [LinuxOPsys: Linux How-to guide, Tutorials & Tips](https://linuxopsys.com/)  
+- [Welcome! - Rate Your Music](https://rateyourmusic.com/)  
+- [Little Big World | Shrinking the World via tilt-shift photography](https://www.littlebigworld.de/)  
+- [Official Website and Shop for Roniit](https://www.roniit.com/)  
+- [Songlink/Odesli](https://odesli.co/)  
+- [在线编辑视频](https://ffmpeg.app/)  
+- [Explore Chrome Webstore - Extpose](https://extpose.com/explore/)  
+- [我的个站信息检查](https://web-check.xyz/results/https%3A%2F%2Ftianheg.co)  
+- [Gitpod Code](https://gitpod.io/)  
+- [Latest Chinese 中文 topics - The freeCodeCamp Forum](https://forum.freecodecamp.org/c/chinese/533)  
+- [Validators and tools | Developers | W3C](https://www.w3.org/developers/tools/)  #a11y
+- [Hacker News](https://news.ycombinator.com/)  
+- [为自己取一个合适的英文名or其他语种名字The Meaning and History of First Names - Behind the Name](https://www.behindthename.com/)  
+- [类似于十万个为什么HowStuffWorks - Learn How Everything Works!](https://www.howstuffworks.com/)  
+- [Quantum Country](https://quantum.country/)  
+- [TuneIn | Free Internet Radio | Live News, Sports, Music, Audiobooks, and Podcasts](https://tunein.com/)  
+- [Numbr](https://numbr.dev/)  
+- [Oxford English Dictionary](https://www.oed.com/)  #dictionary
+- [Derek Sivers](https://sive.rs/)  
+- [Z-Library Project](https://singlelogin.se/)  
+- [NOW](http://localhost:1314/now/)  
+- [Interactive Results](https://krausest.github.io/js-framework-benchmark/current.html)  
+- [Streamlit • A faster way to build and share data apps](https://streamlit.io/)  
+- [Welcome, tianheg](https://www.wordnik.com/users/tianheg)  
+- [flomo](https://v.flomoapp.com/mine)  
+- [World Bank Group - International Development, Poverty, & Sustainability](https://www.worldbank.org/en/home)  
+- [WikiMirror Forum](https://forum.wikimirror.org/)  
+- [开源社 - Feishu Docs](https://kaiyuanshe.feishu.cn/wiki/wikcn749HAOCD2dwaNq4dOC67db)  
+- [Oaktree Capital Management](https://www.oaktreecapital.com/)  
+- [Forbes](https://www.forbes.com/?sh=3bb9b5442254)  
+- [Brookfield—Global Asset Management – Invested in long-term value](https://www.brookfield.com/)  #投资
+- [The Listening Table](https://thelisteningtable.com/)  #Cool
+- [Climate Reanalyzer 气候变化测量](https://climatereanalyzer.org/)  
+- [彩云天气](https://h5.caiyunapp.com/h5)  
+- [Test My Screen | Easily test your screen for defects](https://testmyscreen.com/)  
+- [xAI: Understand the Universe](https://x.ai/)  
+- [Queue | Matter](https://web.getmatter.com/list/queue)  
+- [Uses This采访人们如何通过某些工具完成工作](https://usesthis.com/)  
+- [1tuner | Listen to radio, podcasts and create playlists.](https://1tuner.com/)  
+- [Haruki Murakami](https://www.harukimurakami.com/)  #村上春树
+- [Read Something Wonderful - The Most Precious Resource is Agency](https://readsomethingwonderful.com/p/120/the-most-precious-resource-is-agency)  
+- [蔷薇花园](https://iirose.com/)  #在线聊天室
+- [Aurora Outlook太阳电子风暴等级](https://auroraoutlook.com/)  
+- [有知有行](https://youzhiyouxing.cn/)  
+- [Home - Feishu Docs](https://kaiyuanshe.feishu.cn/drive/home/)  
+- [Frontpage -- Terms of Service; Didn't Read](https://tosdr.org/)  
+- [种子网站 RARBG Rarbg Index page - RARBG.to - RARBG Proxy](https://rargb.to/)  
+- [WebP Cloud](https://webp.se/)  #fun
+- [在线聊天框 Cbox Live Chat · Cbox](https://www.cbox.ws/)  
+- [The Rick and Morty API](https://rickandmortyapi.com/)  #API
+- [国家互联网信息办公室关于《网络暴力信息治理规定（征求意见稿）》公开征求意见的通知-中共中央网络安全和信息化委员会办公室](http://www.cac.gov.cn/2023-07/07/c_1690295996362667.htm)  #网络暴力
+- [MyShell](https://app.myshell.ai/chat)  
+- [Photopea | Online Photo Editor](https://www.photopea.com/)  #photo
+- [A free API database list for developers](https://apivault.dev/)  #API
+- [旧手机 Mobile Phone Museum | Mobile Phone Museum](https://www.mobilephonemuseum.com/)  #phone
+- [乐谱 IMSLP: Free Sheet Music PDF Download](https://imslp.org/)  #music
+- [OONI Explorer 审查数据库](https://explorer.ooni.org/)  #Censorship
+- [双语网页翻译 - 电子书翻译 - PDF翻译 - 字幕文件翻译浏览器扩展 | 沉浸式翻译](https://immersivetranslate.com/)  
+- [Passkeys.io – A Passkey Authentication Demo](https://www.passkeys.io/)  
+- [GitMirror | Services](https://gitmirror.com/)  
+- [莫比乌斯 – 写作，一场自我悖驳的旅程。](https://onojyun.com/)  
+- [高等院校三千所 👨‍🎓 助力考生选大学 | Laosheng.top](https://laosheng.top/fuwu/yuanxiao)  #中国选大学
+- [玛丽珍鞋 - Wikipedia](https://zh.wikipedia.org/wiki/%E7%8E%9B%E4%B8%BD%E7%8F%8D%E9%9E%8B)  
+- [Home - Couples Research](https://couples-research.com/)  #爱情
+- [🌈 通往AGI之路](https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)  
+- [ECMAScript News: Stay up-to-date on JavaScript and tools](https://ecmascript.news/)  #JS#dev
+- [纸牌游戏 Free Solitaire Games](https://online-solitaire.com/)  #game
+- [一席](https://yixi.tv/#/home)  
+- [JustSketchMe](https://justsketch.me/)  
+- [Animista - On-Demand CSS Animations Library](https://animista.net/)  #CSS
+- [security.txt: Proposed standard for defining security policies](https://securitytxt.org/)  
+- [DLAI - Learning Platform Beta](https://learn.deeplearning.ai/)  
+- [CSS Pro | A re-imagined Devtools for web design](https://csspro.com/)  #CSS
+- [安徽美图信息科技有限公司](http://www.ahmeitu.com.cn/)  
+- [https://textdiff.github.io/](https://textdiff.github.io/)  
+- [Text Diff - Free online text compare tool](https://text-diff.com/)  #diff
+- [JSON Meta Application Protocol Specification (JMAP)](https://jmap.io/)  
+- [npm semantic version calculator](https://semver.npmjs.com/)  
+- [npms](https://npms.io/)  
+- [npmmirror 镜像站](https://www.npmmirror.com/)  
+- [积薪 - 依然相信文字的力量](https://firewood.news/)  
+- [Image-Charts - Static image chart interactive generator](https://editor.image-charts.com/)  
+- [Homepage | Houston website 2023](https://www.houston-inc.com/en/)  
+- [RubyGems.org | your community gem host](https://rubygems.org/)  
+- [Subscription Converter](http://localhost:1235/)  
+- [Mass VPS hosting on Enterprise equipment - BandwagonHost VPS](https://bandwagonhost.com/)  
+- [Learn to Code — For Free — Coding Courses for Busy People](https://www.freecodecamp.org/learn)  
+- [构建生产就绪的超融合架构现代数据中心 - SmartX 超融合](https://www.smartx.com/)  
+- [npmcharts 📈](https://npmcharts.com/)  
+- [Write & Improve with Cambridge](https://writeandimprove.com/)  #english
+- [terminal.sexy - Terminal Color Scheme Designer](https://terminal.sexy/)  #Linux
+- [DotShare.it](http://dotshare.it/)  
+- [AudD API Dashboard | AudD Music Recognition API Dashboard](https://dashboard.audd.io/)  #music
+- [WireGuard: fast, modern, secure VPN tunnel](https://www.wireguard.com/)  #network
+- [The good line-height](https://www.thegoodlineheight.com/)  #CSS
+- [Nodb API for JSON](https://dash.nodb.sh/apps)  
+- [mikbry/awesome-webgpu: 😎 Curated list of awesome things around WebGPU ecosystem.](https://github.com/mikbry/awesome-webgpu)  
+- [0 A.D. | A free, open-source game of ancient warfare](https://play0ad.com/)  
+- [Get Help](https://support.mozilla.org/products/firefox)  
+- [Get Involved](https://www.mozilla.org/contribute/)  
+- [About Us](https://www.mozilla.org/about/)  
+- [Use.GPU](https://usegpu.live/)  
+- [We believe in one web for all - W3C](https://www.w3.org/)  #web
+- [Z-Library Project](https://singlelogin.re/)  
+- [SRI Hash Generator](https://www.srihash.org/)  #security
+- [Element | #archlinux-cn](https://app.element.io/#/room/#archlinux-cn:nichi.co)  
+- [Home | endoflife.date](https://endoflife.date/)  
+- [Perplexity AI](https://www.perplexity.ai/)  
+- [VPS Deals](https://hostalk.net/deals.html)  
+- [The Rundown](https://www.therundown.ai/)  
+- [Cloud GPUs - The Full Stack](https://fullstackdeeplearning.com/cloud-gpus/)  
+- [Browserleaks - Check your browser for privacy leaks](https://browserleaks.com/)  #security
+- [DNS leak test](https://www.dnsleaktest.com/)  #network
+- [古诗文网-古诗文经典传承](https://www.gushiwen.cn/)  
+- [Get Involved - KDE Community Wiki](https://community.kde.org/Get_Involved)  
+- [Akademy 2023 (15-July 21, 2023): Overview · KDE Events (Indico)](https://conf.kde.org/event/5/)  
+- [KDE Identity](https://identity.kde.org/)  
+- [Trending - Kockatoo Tube](https://tube.kockatoo.org/)  
+- [阿里云控制台首页](https://home.console.aliyun.com/)  
+- [MirrorZ.org](https://mirrorz.org/)  
+- [Testing Playground](https://testing-playground.com/)  #web
+- [创建Apps - Dify](https://cloud.dify.ai/apps)  
+- [bitmap img to svg](https://vectorizer.ai/)  #image
+- [How I manage GitHub Notifications - Anthony Fu - YouTube](https://www.youtube.com/watch?v=gu-0b6KCf80)  
+- [Test your IPv6.](https://test-ipv6.com/)  #network
+- [https://dashboard.pinggy.io/](https://dashboard.pinggy.io/)  #network
+- [Mozilla Specification Positions](https://mozilla.github.io/standards-positions/)  #web
+- [Posit | The Open-Source Data Science Company](https://posit.co/)  
+- [豆瓣读书](https://book.douban.com/)  #book
+- [Archive](http://travels.surge.sh/)  #CSS
+- [wikiHow：你可以信赖的万事指南](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)  
+- [MSD Manual Consumer Version](https://www.msdmanuals.com/home)  
+- [《默沙东诊疗手册大众版》](https://www.msdmanuals.cn/home)  
+- [LoveFrom,](https://www.lovefrom.com/)  
+- [Distrochooser](https://distrochooser.de/)  
+- [Mantine](https://mantine.dev/)  
+- [电影壁纸Moviemania - Textless high-resolution movie wallpapers](https://www.moviemania.io/desktop)  
+- [gkamradt/langchain-tutorials: Overview and tutorial of the LangChain Library](https://github.com/gkamradt/langchain-tutorials)  
+- [Bard](https://bard.google.com/)  
+- [Home · Solid](https://solidproject.org/)  
+- [全球Generative AI的VC观点 5.12](https://three-recorder-52a.notion.site/Generative-AI-VC-5-12-cb47e0528b484b1ea9fd4cd48721beea)  
+- [AI 导航](https://ai.nancheng.fun/)  
+- [讯飞星火](https://xinghuo.xfyun.cn/desk)  
+- [Docker-based PHP environment](https://ddev.com/)  
+- [DailyArt - Your daily dose of art.](https://getdailyart.com/)  
+- [IdeaChat](https://ideachat.top/)  
+- [Orgzly | Notes & To-Do Lists](https://www.orgzly.com/)  
+- [今日诗词 - 一言API - 诗词实时智能推荐 - 今日诗词开放接口 - 今日诗词 API - 个人文章分享](https://www.jinrishici.com/)  
+- [Bunny CDN - Account Overview - bunny.net](https://dash.bunny.net/)  
+- [付费解决方案 lemonsqueezy](https://www.lemonsqueezy.com/)  
+- [Hello 算法](https://www.hello-algo.com/)  
+- [SpaceTraders API](https://spacetraders.io/)  
+- [Ancient Earth globe](https://dinosaurpictures.org/ancient-earth#240)  
+- [All decks - Gamma AI+幻灯片](https://gamma.app/#all)  
+- [Bandcamp](https://bandcamp.com/)  
+- [bunny.net - The Content Delivery platform that truly Hops!](https://bunny.net/)  
+- [compute.toys](https://compute.toys/)  
+- [cocktailpeanut/dalai: The simplest way to run LLaMA on your local machine](https://github.com/cocktailpeanut/dalai)  
+- [Pinecone Console](https://app.pinecone.io/organizations/-NUfyI21VbL4MLDfK_jf/projects/us-east-1-aws:5293b6c/indexes)  
+- [A Pen from template by tianheg](https://codepen.io/pen?template=JjmMbRp)  
+- [Modern CSS Solutions](https://moderncss.dev/)  
+- [Wiby - Search Engine for the Classic Web](https://www.wiby.org/)  
+- [海邊旅館一夜 — Schoolgirl byebye | China 2020](https://radiooooo.com/)  
+- [Web design and development articles and tutorials for advent ◆ 24 ways](https://24ways.org/)  #design
+- [OddBird | Custom Web App Design & Development For Humans](https://www.oddbird.net/)  
+- [gridtoflex.com](https://www.gridtoflex.com/)  
+- [troxler/awesome-css-frameworks: List of awesome CSS frameworks in 2023](https://github.com/troxler/awesome-css-frameworks)  
+- [Named Colors Wheel CSS](https://arantius.github.io/web-color-wheel/)  
+- [Privacy Guides: Your Independent Privacy and Security Resource](https://www.privacyguides.org/en/#what-should-i-do)  
+- [Kindle Unlimited Central](https://www.amazon.com/kindle-dbs/ku/ku-central/)  
+- [@tianheg@mastodon.social (Mastodon) - Bridgy](https://brid.gy/mastodon/@tianheg@mastodon.social)  
+- [Pass: The Standard Unix Password Manager](https://www.passwordstore.org/)  
+- [OpenAI Analytics Dashboard | LLM Report](https://llm.report/)  
+- [Pi, your personal AI](https://heypi.com/talk)  
+- [cohost! - "I want to talk about WebGPU"](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu)  
+- [WebGPU Fundamentals](https://webgpufundamentals.org/)  
+- [WebGPU Samples](https://webgpu.github.io/webgpu-samples)  
+- [WebGPU specification](https://www.w3.org/TR/webgpu/)  
+- [it's a(door)able游戏](https://ncase.me/door/)  
+- [A Programmer's Introduction to Mathematics](https://pimbook.org/)  
+- [Bunny Fonts | Explore Faster & GDPR friendly Fonts](https://fonts.bunny.net/)  
+- [tianheg - Codeberg.org](https://codeberg.org/tianheg)  #git
+- [dmtry-krachkovi/neural-network: Neural network prototype built from scratch in javascript.](https://github.com/dmtry-krachkovi/neural-network)  
+- [Bytecode Alliance](https://bytecodealliance.org/)  
+- [▶️ Live HD Cams from the World! - SkylineWebcams](https://www.skylinewebcams.com/)  
+- [Timeline of Transformer Models / Large Language Models (AI / ML / LLM)](https://ai.v-gar.de/ml/transformer/timeline/index.html)  
+- [RegExGPT](https://regexgpt.app/)  
+- [OKLCH Color Picker & Converter](https://oklch.com/)  
+- [Welcome to Markwhen 👋 - Markwhen](https://markwhen.com/)  
+- [JSFuck - Write any JavaScript with 6 Characters: []()!+](http://www.jsfuck.com/)  
+- [WikiArt.org - Visual Art Encyclopedia](https://www.wikiart.org/)  
+- [Cloud Native Landscape](https://landscape.cncf.io/)  
+- [firefox browser css](https://searchfox.org/mozilla-central/source/layout/style/res/html.css)  
+- [Flowtelic](https://app.flowtelic.com/)  
+- [Explore and Contribute to Knowledge | Golden](https://golden.com/explore)  
+- [AutoDraw](https://www.autodraw.com/)  
+- [RegEx Library](https://uibakery.io/regex-library)  
+- [DevTools Tips](https://devtoolstips.org/)  #dev
+- [Free SVG generators, color tools & web design tools](https://fffuel.co/)  #SVG
+- [couleur.io → Harmonizing Color Palettes for Your Web Projects](https://couleur.io/)  
+- [Linux Gazette Archives](https://tldp.org/LDP/LG/archives.html)  
+- [首页_古典音乐频道](https://www.ncpa-classic.com/index.shtml)  #music
+- [Colin Woodbury](https://www.fosskers.ca/en)  
+- [Denigma - AI that reads and explains code in understandable english](https://denigma.app/)  
+- [Louvre site des collections](https://collections.louvre.fr/en/)  
+- [故宫博物院](https://www.dpm.org.cn/Home.html)  
+- [故宫名画记](https://minghuaji.dpm.org.cn/)  
+- [RadioTunes | Enjoy amazing Free Internet Radio stations](https://www.radiotunes.com/)  
+- [Rambles.NET, a cultural arts review magazine](https://www.rambles.net/index.html)  
+- [文学100](http://www.wenxue100.com/)  
+- [国学网](http://www.guoxue.com/)  
+- [说文解字 汉字起源 汉字字形 甲骨文 —— 字源洞天 象形字典](https://www.vividict.com/Public/index/page/index/index.html)  
+- [乡音苑](https://phonemica.net/)  #中文学习
+- [海交史 – 东亚文史研究动态网](https://www.haijiaoshi.com/)  
+- [http://gaga.biodiv.tw/new23/cp021.htm](http://gaga.biodiv.tw/new23/cp021.htm)  
+- [Stellarium Astronomy Software](https://stellarium.org/en/)  
+- [Royal Botanic Gardens, Kew | Kew](https://www.kew.org/)  
+- [中国数字植物标本馆（CVH）](https://www.cvh.ac.cn/)  
+- [臺灣生命大百科|中央研究院](https://taieol.tw/)  
+- [The Plant Observatory](http://www.natureloveyou.sg/)  
+- [Encyclopedia of Life](https://eol.org/)  
+- [100,000 Stars](http://stars.chromeexperiments.com/)  
+- [chemguide: helping you to understand Chemistry - Main Menu](https://chemguide.co.uk/)  
+- [行业标准信息服务平台](https://hbba.sacinfo.org.cn/)  
+- [SPDX License List | Software Package Data Exchange (SPDX)](https://spdx.org/licenses/)  
+- [The Little Book of Deep Learning - lbdl.pdf](https://fleuret.org/public/lbdl.pdf)  
+- [Download APK 谷歌商店替代](https://apkpure.com/)  
+- [首页 | OpenAI-SB](https://openai-sb.com/)  
+- [Online Judge - Home](https://onlinejudge.org/index.php)  
+- [Welcome to GFW.Report](https://gfw.report/)  
+- [Server酱·Turbo版](https://sct.ftqq.com/)  
+- [LAION](https://laion.ai/)  
+- [QuirksMode - for all your browser quirks](https://www.quirksmode.org/)  
+- [HuggingChat](https://huggingface.co/chat/)  
+- [The Type — 文字 / 设计 / 文化](https://www.thetype.com/)  
+- [NeoDB - 我的个人主页](https://neodb.social/users/tianheg@mastodon.social/)  
+- [CSS Architecture and Performance Engineering – CSS Wizardry – Web Performance Optimisation](https://csswizardry.com/)  
+- [CSS Tip: Learn CSS the easy one](https://css-tip.com/)  
+- [Hugging Face – The AI community building the future.](https://huggingface.co/)  
+- [https://signin.aws.amazon.com/console](https://signin.aws.amazon.com/console)  
+- [Mastodon Threaded Replies](https://mastodon-thread-view.jvns.ca/)  
+- [Hung-yi Lee - YouTube](https://www.youtube.com/@HungyiLeeNTU)  
+- [One Word Domains - Database of 1,261,654 available and brandable one-word domains](https://oneword.domains/)  
+- [注册虚拟美国信用卡](https://card.onekey.so/?i=UYQVFN&error=Registration%20temporarily%20unavailable.%20We%20will%20be%20back%20soon)  
+- [Daily AI news, products and research - Ben's Bites](https://news.bensbites.co/)  
+- [No-Signup Tools](https://www.nosignup.tools/)  
+- [offsec.tools - A vast collection of security tools](https://offsec.tools/)  
+- [Can I email… Support tables for HTML and CSS in emails](https://www.caniemail.com/)  #email
+- [OWASP Foundation, the Open Source Foundation for Application Security | OWASP Foundation](https://owasp.org/)  
+- [https://www.philoart.io/philo](https://www.philoart.io/philo)  
+- [Ping, mtr, dig and TCP port check from multiple locations](https://ping.pe/)  #network
+- [AiDraw - AiDraw](https://draw.dianas.cyou/)  
+- [政策](https://app.mps.gov.cn/gdnps/zc/index.jsp)  
+- [国家法律法规数据库](https://flk.npc.gov.cn/index.html)  
+- [claude - tianheg - Slack](https://app.slack.com/client/T052VF2MQAX/C053K9VABT2)  
+- [首页 - 全国标准信息公共服务平台](https://std.samr.gov.cn/)  #China
+- [March | Arch Linux Monthly Reports](https://monthly-reports.archlinux.page/2023/03/)  
+- [https://jspm.org/](https://jspm.org/)  
+- [thanks.dev – open source funding platform](https://thanks.dev/dashboard)  
+- [cheat.sh/:firstpage](http://cht.sh/)  
+- [ThinkWiki](https://www.thinkwiki.org/wiki/ThinkWiki)  
+- [Linux Hardware Reviews & Performance Benchmarks, Open-Source News - Phoronix](https://www.phoronix.com/)  
+- [全球主机交流论坛 - Powered by Discuz!](https://hostloc.com/)  
+- [Online Calculators & Tools - RapidTables.com](https://www.rapidtables.com/)  
+- [HTML Reference - A free guide to all HTML elements and attributes.](https://htmlreference.io/)  
+- [ShareGPT: Share your wildest ChatGPT conversations with one click.](https://sharegpt.com/)  
+- [测试代理访问ChatGPT时的网络位置](https://chat.openai.com/cdn-cgi/trace)  
+- [V2EX](https://www.v2ex.com/)  
+- [Indie Hackers: Work Together to Build Profitable Online Businesses](https://www.indiehackers.com/)  
+- [NeoDB - 动态](https://neodb.social/timeline/)  
+- [https://mastodon.social/home](https://mastodon.social/home)  
+- [Text to ASCII Art Generator (TAAG)](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)  
+- [Futurepedia - The Largest AI Tools Directory | Home](https://www.futurepedia.io/)  
+- [1.1.1.1 — The free app that makes your Internet faster.](https://1.1.1.1/)  
+- [中文播客榜](https://xyzrank.com/#/hot-podcasts)  
+- [ChatDOC](https://chatdoc.com/)  #Summary
+- [首页 - Shadowsocks.com](https://portal.shadowsocks.au/index.php)  
+- [i18n.ai: your i18n AI assisant.](https://chatgpt-i18n.vercel.app/)  
+- [PageSpeed Insights](https://pagespeed.web.dev/)  
+- [Discord](https://discord.com/channels/@me)  
+- [AI Colors](https://aicolors.co/)  
+- [Prompt Hunt - Your home for exploring, creating, and sharing AI art](https://www.prompthunt.com/)  
+- [tianheg (@tianheg@mastodon.social) - Mastodon](https://mastodon.social/@tianheg)  
+- [Civitai](https://civitai.com/)  
+- [midjourney - Bot007 - Slack](https://app.slack.com/client/T051D3T7MDZ/C051MGX8UCS)  
+- [A Comprehensive Guide to LangChain](https://nathankjer.com/introduction-to-langchain/)  
+- [Discord | Home - Midjourney](https://discord.com/channels/662267976984297473/@home)  
+- [Refined ChatGPT UI with useful features - ChatKit](https://chatkit.app/)  
+- [API2D](https://api2d.com/wiki/doc)  
+- [Superfast Speech Recognition | Speechly](https://www.speechly.com/)  
+- [AIcyclopedia | The largest AI encyclopedia](https://www.aicyclopedia.com/)  
+- [Explainpaper](https://www.explainpaper.com/)  
+- [Midjourney 知识库](https://tob-design.yuque.com/kxcufk/mj)  
+- [Create a Hero Page - List Maker, Share Lists of Links & Spaces](https://hero.page/)  
+- [首页 | 中国法律快查手册](https://lawrefbook.github.io/)  
+- [EnhanceAI](https://www.enhanceai.dev/)  
+- [ChilloutMix-自动化生成AI的小姐姐 | ChilloutAI](https://chilloutai.com/nsfw)  
+- [My Pods](https://www.runpod.io/console/pods)  
+- [Jina AI Cloud](https://cloud.jina.ai/)  
+- [AirCode](https://aircode.io/dashboard)  
+- [tianheg – Replicate](https://replicate.com/)  
+- [nodejs/Release: Node.js Release Working Group](https://github.com/nodejs/release#release-schedule)  
+- [Prompt Engineering Jobs](https://prompt-engineering-jobs.com/)  
+- [Hoppscotch • Open source API development ecosystem • Hoppscotch](https://hoppscotch.io/)  
+- [Pocket](https://getpocket.com/saves)  
+- [ElevenLabs - Prime AI Text to Speech | Voice Cloning](https://beta.elevenlabs.io/)  
+- [AI photo sorter](https://ai-photo-sorter.vercel.app/)  
+- [ESLint 规则生成器](https://eslint.rustc.cloud/)  
+- [Happy Hues - Curated colors in context.](https://www.happyhues.co/)  
+- [ninehills/Chat-GPT-Enhance: Empower ChatGPT with the ability to perform mathematical calculations, web scraping, PDF analysis, and more.](https://github.com/ninehills/Chat-GPT-Enhance)  
+- [Prompt Engineering Guide | Prompt Engineering Guide](https://www.promptingguide.ai/)  
+- [SS/SSR/V2Ray/Trojan/Clash 客户端软件下载 - Blog](https://congcong0806.github.io/2018/04/20/SS/)  
+- [云 2023-08-03 21:50:41](https://increasingthroughputhpcandaiworkloads.analytics-networking-security-storage-highperformance-computing.inspur-microsoft-azure-nvidia-oracle-ovhcloud-redhat-supermicro.aws-cisco-delltechnologies-fujitsu-hewlettpackardenterprise-ibm.com/)  
+- [风声雨声-翻译](https://fsys.app/)  
+- [ChatGPT - Reddit](https://www.reddit.com/r/ChatGPT/)  
+- [nexitally | Control Panel](https://nexitally.com/Main.aspx)  
+- [Safari Release Notes | Apple Developer Documentation](https://developer.apple.com/documentation/safari-release-notes)  
+- [Firefox Release Calendar](https://whattrainisitnow.com/calendar/)  
+- [Transcribe Speech to Text | Rev](https://www.rev.com/)  
+- [Context | AI-Powered Audio & Video Chatbots](https://addcontext.xyz/)  
+- [AIer](https://www.aier.app/home)  
+- [CatGPT](https://cat-gpt.com/)  
+- [Open Prompt](https://openprompt.co/)  
+- [stars/site.md at main · tianheg/stars · GitHub](https://github.com/tianheg/stars/blob/main/site.md)  
+- [They Said So | Say it with style | Inspiring quotes, Quote of the day and more...](https://theysaidso.com/)  
+- [Presearch](https://presearch.com/)  
+- [BriefGPT - AI 论文速递](https://briefgpt.xyz/)  
+- [City Walks Live](https://citywalks.live/)  
+- [Coding Interview & Technical Assessment Platform - CoderPad](https://coderpad.io/)  
+- [Markprompt | Open Source GPT-4 platform for Markdown](https://markprompt.com/)  
+- [PromptHero - Search prompts for Stable Diffusion, ChatGPT & Midjourney](https://prompthero.com/)  
+- [W3Techs - extensive and reliable web technology surveys](https://w3techs.com/)  
+- [WeasyPrint](https://weasyprint.org/)  
+- [Chatbase | Build a custom ChatGPT trained on your data](https://www.chatbase.co/)  
+- [Wiki-Map](https://wiki-map.com/)  
+- [Cursor | Build Fast](https://www.cursor.so/)  
+- [Codeium](https://codeium.com/)  
+- [anc95/ChatGPT-CodeReview: 🐥 A code review bot powered by ChatGPT](https://github.com/anc95/ChatGPT-CodeReview)  
+- [What's My Screen Size?](https://whatsmyscreensize.com/)  
+- [Eyes on the Solar System - NASA/JPL](https://eyes.nasa.gov/) Welcome to NASA's Eyes, a way for you to learn about your home planet, our solar system, the universe beyond and the spacecraft exploring them. #fun
+- [React – The library for web and native user interfaces](https://react.dev/)  
+- [freeCodeCamp projects](https://fcc.tianheg.org/)  
+- [Linodes | Linode Manager](https://cloud.linode.com/linodes)  
+- [Product Docs Home :: DigitalOcean Documentation](https://docs.digitalocean.com/products/)  
+- [DigitalOcean Status](https://status.digitalocean.com/)  
+- [webЯcade 古老的游戏，在线玩](https://www.webrcade.com/)  
+- [Worldcoin](https://worldcoin.org/)  
+- [Profile | Codeium](https://codeium.com/profile)  
+- [Poe - Sage](https://poe.com/)  
+- [What does this code do?](https://whatdoesthiscodedo.com/)  
+- [Buzzing - 用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读](https://www.buzzing.cc/)  
+- [Reddit - Dive into anything](https://www.reddit.com/)  
+- [Ask My Book: The Minimalist Entrepreneur](https://askmybook.com/)  
+- [Hello from Learning Prompt | Learning Prompt](https://learningprompt.wiki/)  
+- [yEd Live画图](https://www.yworks.com/yed-live/)  
+- [Codeverter](https://codeverter.vercel.app/)  
+- [Tools for better thinking | Untools](https://untools.co/)  #提升思维能力
+- [LangChain AI Handbook | Pinecone](https://www.pinecone.io/learn/langchain/)  
+- [Recent updates | Goodreads](https://www.goodreads.com/)  
+- [npm trends](https://npmtrends.com/)  
+- [Royalty Free Music Download - Pixabay](https://pixabay.com/music/)  
+- [Linux Man Pages -- Dash Dash](https://dashdash.io/)  
+- [replace Lodash](https://thescottyjam.github.io/snap.js/#!/nolodash)  
+- [150+ AI Historic Figures](https://ignacio-velasquez.notion.site/150-AI-Historic-Figures-464075f3804843d7a93087c98cfe4943)  
+- [Edit • Photo - The Free Online Photo Editor In Your Browser](https://edit.photo/)  
+- [Retool | Build internal tools, remarkably fast.](https://retool.com/)  
+- [Reqres - A hosted REST-API ready to respond to your AJAX requests](https://reqres.in/)  
+- [Community of creators building with state of the art Artificial Intelligence](https://lablab.ai/)  
+- [How to get Codex to produce the code you want! | Prompt Engineering](https://microsoft.github.io/prompt-engineering/)  
+- [Best practices for prompt engineering with OpenAI API | OpenAI Help Center](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)  
+- [Learn Prompting | Learn Prompting](https://learnprompting.org/)  
+- [TypeScript to plain JavaScript](https://transform.tools/typescript-to-javascript)  
+- [https://cloud.umami.is/websites](https://cloud.umami.is/websites)  
+- [PromptBase | Prompt Marketplace: DALL·E, Midjourney, ChatGPT, Stable Diffusion & GPT-3](https://promptbase.com/)  
+- [Jina AI: MLOps for Multimodal AI, Neural Search, Generative AI, Creative AI](https://jina.ai/)  
+- [PromptPerfect - Elevate your prompts to perfection](https://promptperfect.jina.ai/)  #ai
+- [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers)  
+- [Streamlit](https://pineappleexpress808-doc-gpt-doc-gpt-q0823l.streamlit.app/)  
+- [Build an AI that answers questions based on user research data. | by Irina Nik | Feb, 2023 | UX Collective](https://uxdesign.cc/i-built-an-ai-that-answers-questions-based-on-my-user-research-data-7207b052e21c)  
+- [ChatGPT Shortcut - 简单易用的 ChatGPT 快捷指令表，让生产力倍增！ | 标签筛选、关键词搜索和一键复制 Prompts](https://newzone.top/chatgpt/)  
+- [Remote Jobs in Programming, Design, Sales and more #OpenSalaries](https://remoteok.com/)  
+- [Just Join IT: #1 Job Board for tech industry in Europe](https://justjoin.it/)  
+- [JavaScript Jobs - OnSite and Remote JavaScript Jobs - March 2022](https://javascriptjob.xyz/)  
+- [Who's hiring (Feb 2023) · vercel/next.js · Discussion #45533](https://github.com/vercel/next.js/discussions/45533)  
+- [Kitty says hi. | Kitty Giraudel](https://kittygiraudel.com/)  
+- [ChatPDF - Chat with any PDF!](https://www.chatpdf.com/)  
+- [Photo AI: The First AI Photographer, Generate Photorealistic Images using Artifical Intelligence Tech with Dreambooth and ControlNet](https://photoai.io/)  
+- [RoomGPT 用来装饰屋子](https://www.roomgpt.io/)  
+- [NextUI - Beautiful, fast and modern React UI Library](https://nextui.org/)  
+- [tianheg overview - PlanetScale](https://app.planetscale.com/tianheg)  
+- [Ask HN: Who is hiring? (March 2023) | Hacker News](https://news.ycombinator.com/item?id=34983767)  
+- [Vercel OG Image Playground](https://og-playground.vercel.app/)  
+- [Learn, improve and generate code with AI — Refraction](https://www.refraction.dev/)  
+- [Omegle: Talk to strangers!](https://www.omegle.com/)  
+- [开源社](https://kaiyuanshe.cn/)  
+- [My Hub | SwaggerHub](https://app.swaggerhub.com/home)  
+- [db4free.net - MySQL Database for free](https://db4free.net/)  
+- [Hangzhou Xiaoshan International Airport (ZSHC, HGH) – OpenAirportMap](https://openairportmap.org/ZSHC#map=13/30.236676/120.429252)  
+- [OpenCage - Easy, Open, Worldwide, Affordable Geocoding and Geosearch](https://opencagedata.com/)  
+- [Inbox - yidajiabei@gmail.com - Gmail](https://mail.google.com/mail/u/0/#inbox)  #email
+- [Fig](https://app.fig.io/scripts)  
+- [Frontend Masters](https://frontendmasters.com/dashboard/)  
+- [Watershed — The enterprise climate platform](https://watershed.com/)  
+- [Build chat bot with data](https://app.copilothub.co/home)  
+- [chatgpt](https://chat.openai.com/chat)  
+- [AI2045 - Discover AI tools for the future](https://ai2045.com/)  
+- [Home - Caught in the Web](https://citw.dev/)  
+- [AI Music Generator - SOUNDRAW](https://soundraw.io/)  
+- [MathB.in - Share Mathematics with LaTeX and Markdown](https://mathb.in/)  
+- [Marginalia Search](https://search.marginalia.nu/)  #Search
+- [ASCIIFlow](https://asciiflow.com/#/)  
+- [ECMA262-5](https://www.ecma-international.org/wp-content/uploads/ECMA-262_5th_edition_december_2009.pdf)  
+- [ECMA-262 - Ecma International](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)  
+- [ECMA262-6(ES2015)](https://262.ecma-international.org/6.0/)  
+- [ECMA262-3](https://www-archive.mozilla.org/js/language/e262-3.pdf)  
+- [图片转文字在线 - 图片文字提取 - 网页OCR文字识别 - 白描网页版](https://web.baimiaoapp.com/)  
+- [Bundle Scanner - Identify NPM libraries included in Javascript files](https://bundlescanner.com/)  
+- [WinterCG](https://wintercg.org/)  
+- [The Libera Manifesto](https://liberamanifesto.com/)  
+- [Cal.com | Open Scheduling Infrastructure](https://cal.com/)  
+- [The freeCodeCamp Forum - Join the developer community and learn to code for free.](https://forum.freecodecamp.org/)  
+- [Emacs China](https://emacs-china.org/)  
+- [HUGO Discourse](https://discourse.gohugo.io/)  
+- [预防颈椎病的新标签页扩展](https://wai.shaiwang.life/)  
+- [总结网址Kagi - Universal Summarizer](https://labs.kagi.com/ai/sum)  
+- [总结视频summarize.tech: AI-powered video summaries](https://www.summarize.tech/)  
+- [Lobsters](https://lobste.rs/)  
+- [VisBug](https://visbug.web.app/)  
+- [Searchfox](https://searchfox.org/)  
+- [calendar - Time.is](https://time.is/calendar)  
+- [永乐大典](https://yongle.shidianguji.com/)  
+- [HTTP security headers Content Security Policy and Feature Policy, protection against XSS, substitution and injection Ads, ensuring the anonymity and privacy of Internet users](https://csplite.com/)  
+- [美联储数据库](https://zhengceku.fun/fed)  
+- [搜韵-诗词门户网站](https://sou-yun.cn/)  
+- [漢字標準格式 — 印刷品般的漢字排版框架](https://hanzi.pro/)  
+- [掘火档案 | A Selection of Critical Mass in Music, Films and Beyond](https://www.digforfire.net/)  
+- [Codewars API tianheg completed](https://www.codewars.com/api/v1/users/tianheg/code-challenges/completed)  
+- [搜索特价机票、酒店及租车 | KAYAK客涯](https://www.cn.kayak.com/)  
+- [北美Priceline.com - The Best Deals on Hotels, Flights and Rental Cars.](https://www.priceline.com/?vrid=2be26a554ca7caa11447670cfa5d29c6)  
+- [西部航空[官方网站] – 西部航空有限责任公司](https://www.westair.cn/)  
+- [【去哪儿网】机票查询预订，酒店预订，旅游团购，度假搜索，门票预订-去哪儿网Qunar.com](https://www.qunar.com/)  
+- [中国联合航空公司](https://www.flycua.com/)  
+- [中国南方航空官网 - 南航机票预订_飞机票查询_航班查询_特价机票](https://www.csair.com/cn/)  
+- [昆明航空](https://www.airkunming.com/#/)  
+- [欢迎访问吉祥航空官方网站-特价机票预订_国内国际机票预订_网上机票预订](http://www.juneyaoair.com/)  
+- [四川航空股份有限公司官方网站-飞机票查询预订_航班查询_最新打折特价机票_川航网上值机](https://www.sichuanair.com/)  
+- [Cheap flights | Free flight comparison at www.tianxun.com](https://www.tianxun.com/)  
+- [东方航空](https://www.ceair.com/)  
+- [MIT Technology Review --- 麻省理工学院技术评论](https://www.technologyreview.com/)  
+- [TechCrunch • Startup and Technology News --- TechCrunch • Startup and Technology News 创业与科技新闻](https://techcrunch.com/)  
+- [DevOps Dream](https://dream.devops.games/)  
+- [Oh My Git!](https://ohmygit.org/)  
+- [OverTheWire: Wargames](https://overthewire.org/wargames/)  
+- [UX Hints – Product Design Knowledge](https://uxhints.com/)  
+- [Account API Keys - OpenAI API](https://platform.openai.com/account/api-keys)  
+- [杭州凯棉科技有限公司](https://www.keymantech.cn/)  
+- [杭州大名维森软件有限公司](https://www.damingsoft.com/)  
+- [新小科技](https://xinxiao.tech/)  
+- [幻方 | 首页](https://www.high-flyer.cn/)  
+- [Packages for Linux and Unix - pkgs.org](https://pkgs.org/)  
+- [Culture Science© Consulting | Culture Drives Performance - Gapingvoid](https://www.gapingvoid.com/)  
+- [美国校园广播Campus FM - stream college radio](https://www.campus-fm.com/)  
+- [Anna’s Archive](https://annas-archive.org/)  
+- [Linux Man Pages](https://manpages.org/)  
+- [Developer Roadmaps - roadmap.sh](https://roadmap.sh/)  #dev
+- [美团技术团队](https://tech.meituan.com/)  
+- [Convert curl commands to code](https://curlconverter.com/)  
+- [SMS-Activate - service for receiving virtual SMS online to virtual SIM](https://sms-activate.org/en)  
+- [Hurricane Electric BGP Toolkit](https://bgp.he.net/)  #network
+- [broider](https://maxbittker.github.io/broider/)  
+- [Bootlin – Embedded Linux and kernel engineering](https://bootlin.com/)  
+- [Linux source code (v6.2-rc5) - Bootlin](https://elixir.bootlin.com/linux/v6.2-rc5/source)  
+- [tianheg/SingleFile-Archives: Pages saved with SingleFile](https://github.com/tianheg/SingleFile-Archives)  
+- [ESLint Playground - ESLint - Pluggable JavaScript Linter](https://eslint.org/play/)  
+- [Inspect – The mobile DevTools you'll love using](https://inspect.dev/)  
+- [哑舍 哑舍1 第一章 古镜 - 落霞读书](https://luoxiadushu.com/yashe/86369.htm)  
+- [首頁 - 白雲深處人家海外站](https://homeinmists.ilotus.org/)  
+- [diagrams.net](https://app.diagrams.net/)  
+- [漢典](https://www.zdic.net/)  #中文学习
+- [One app, all things money | Revolut](https://www.revolut.com/)  
+- [Listen Notes: The best podcast search engine](https://www.listennotes.com/)  
+- [李志 – About B&B](https://www.lizhi334.com/)  
+- [无损压缩Squoosh](https://squoosh.app/)  
+- [The best tech talks for developers - on DevTube](https://dev.tube/)  
+- [NandGame - Build a computer from scratch.](https://nandgame.com/)  
+- [国家地理信息公共服务平台 天地图](https://www.tianditu.gov.cn/)  
+- [ECMAScirpt | ECMAScript manual](https://es.tianheg.org/)  
+- [诗片-使您的照片更具诗意](https://shipian.zsio.net/)  
+- [Randoma11y - Accessible color combinations](https://randoma11y.com/)  
+- [DeepL Write: AI-powered writing companion](https://www.deepl.com/write)  
+- [ECMAScript 6 compatibility table](https://kangax.github.io/compat-table/es6/)  
+- [Documentaries - watch free online documentaries - ihavenotv.com](https://ihavenotv.com/)  
+- [Web Skills](https://andreasbm.github.io/web-skills/)  
+- [維基大典](https://zh-classical.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E5%A4%A7%E5%85%B8:%E5%8D%B7%E9%A6%96)  
+- [Lodash](https://lodash.com/)  
+- [Lean Domain Search – Search for and register available domain names in seconds.](https://leandomainsearch.com/)  
+- [Newsletters spam test by mail-tester.com](https://www.mail-tester.com/)  #email
+- [QuickRef.ME - Quick Reference Cheat Sheet](https://quickref.me/)  
+- [The Observatory of Economic Complexity | OEC - The Observatory of Economic Complexity](https://oec.world/en)  
+- [网道 - 互联网开发文档](https://wangdoc.com/)  
+- [http2 explained - The HTTP/2 book](https://daniel.haxx.se/http2/)  
+- [Writing a lisp compiler from scratch in JavaScript: 1. lisp to assembly | notes.eatonphil.com](https://notes.eatonphil.com/compiler-basics-lisp-to-assembly.html)  
+- [ECMAScript Proposals](https://www.proposals.es/)  
+- [团子的小窝 - 慢下来享受生活](https://kodango.com/)  
+- [catonmat.net – archive](https://catonmat.net/archive)  
+- [USD to CNY currency converter - Currency World](https://currency.world/convert/USD/CNY)  
+- [TopLanguage - Google Groups](https://groups.google.com/g/pongba)  
+- [Brad Woods' Digital Garden](https://garden.bradwoods.io/)  
+- [Privacy Tools Guide: Website for Encrypted Software & Apps](https://www.privacytools.io/)  
+- [The best of JavaScript, HTML and CSS | Best of JS](https://bestofjs.org/)  
+- [2022 JavaScript Rising Stars](https://risingstars.js.org/2022/en)  
+- [The Tech Terms Computer Dictionary](https://techterms.com/)  
+- [ECMAScript – Dmitry Soshnikov](http://dmitrysoshnikov.com/category/ecmascript/)  
+- [ES Discuss](https://esdiscuss.org/)  
+- [书格](https://new.shuge.org/)  
+- [Cherries](https://cherries.vercel.app/)  
+- [DevBase](https://devbase.fyi/)  
+- [技术面试指南 | TDS 博客](https://blog.taptap.dev/pages/tech-interview-guide)  
+- [NameBeta: Domain Name Search, Register, Compare Prices](https://namebeta.com/)  
+- [Open Source Guides | Learn how to launch and grow your project.](https://opensource.guide/)  
+- [Info-Finder 网络路由文档资料](https://info.support.huawei.com/info-finder/zh/enterprise/index)  
+- [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)  
+- [Chrome Developers](https://developer.chrome.com/)  
+- [PouchDB, the JavaScript Database that Syncs!](https://pouchdb.com/)  
+- [Eloquent JavaScript](https://eloquentjavascript.net/index.html)  
+- [道德经网 - 老子道德经全文及译文_兴道坊](https://www.xingdaofang.com/)  
+- [reddit: the front page of the internet](https://old.reddit.com/)  
+- [ECMAScript® Latest Language Specification](https://tc39.es/ecma262/)  
+- [ECMAScript® 202X Language Specification](https://262.ecma-international.org/)  
+- [Lojban](https://mw.lojban.org/index.php?title=Lojban)  
+- [机器之心](https://www.jiqizhixin.com/)  
+- [Phys.org - News and Articles on Science and Technology](https://phys.org/)  
+- [Netlify Blog](https://www.netlify.com/blog/)  
+- [Blog – Vercel](https://vercel.com/blog)  
+- [The HTTP Archive](https://httparchive.org/)  
+- [JavaScript - OneCompiler - Write, run and share JavaScript code online](https://onecompiler.com/javascript/)  
+- [Eruda: Console for Mobile Browsers](https://eruda.liriliri.io/)  
+- [JavaScript debugger - JavaScript Tutor - Learn JavaScript programming by visualizing code](https://pythontutor.com/javascript.html#mode=edit)  
+- [Bubbl.es - JS scope chain visualizer](https://jsbubbl.es/bubbles)  
+- [SVG Editor - Mediamodifier](https://mediamodifier.com/svg-editor)  
+- [W3C Chinese Web Interest Group](https://www.w3.org/2018/chinese-web-ig/)  
+- [HTTPie for Web — API testing client](https://httpie.io/app)  
+- [#GitHubUnwrapped 2022](https://www.githubunwrapped.com/)  
+- [GitHub Contributions Chart Generator](https://github-contributions.vercel.app/)  
+- [Icon Font & SVG Icon Sets ❍ IcoMoon](https://icomoon.io/)  
+- [Download GitHub directory](https://download-directory.github.io/)  
+- [Web Design Museum 1991 – 2006](https://www.webdesignmuseum.org/)  
+- [Currency World](https://currency.world/)  
+- [Table Convert Online - Make it easier to work with tables](https://tableconvert.com/)  
+- [纽约时报中文网 国际纵览](https://cn.nytimes.com/)  
+- [Phil Gyford’s website](https://www.gyford.com/)  
+- [Ye Olde Blogroll - Blogroll.org](https://blogroll.org/)  
+- [ooh.directory](https://ooh.directory/)  
+- [月光博客-关注互联网和搜索引擎的IT科技博客](https://www.williamlong.info/)  
+- [Wikipedia](https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5)  
+- [21st Century China Center](https://china.ucsd.edu/)  
+- [Inbox | tianheg@proton.me | Proton Mail](https://mail.proton.me/u/1/inbox)  #email
+- [Home | chriskirknielsen](https://chriskirknielsen.com/)  
+- [Home | nivo](https://nivo.rocks/)  
+- [web-platform-tests dashboard](https://wpt.fyi/interop-2022)  
+- [2022 State of the API Report | Brought to You by Postman](https://www.postman.com/state-of-api/)  
+- [Sidebar](https://sidebar.io/)  
+- [State of CSS](https://stateofcss.com/en-us/)  
+- [The State of CSS 2022](https://2022.stateofcss.com/en-US/)  
+- [Songtell - Your song meaning teller](https://www.songtell.com/)  
+- [whatamesh](https://whatamesh.vercel.app/)  
+- [Imgbot - Automatic image compression](https://imgbot.net/)  
+- [Geo Traceroute](https://geotraceroute.com/)  
+- [力扣（LeetCode）官网 - 全球极客挚爱的技术成长平台](https://leetcode.cn/)  
+- [DOM Visualizer](http://bioub.github.io/dom-visualizer/)  
+- [State of JavaScript](https://stateofjs.com/en-us/)  
+- [ProgrammableWeb - APIs, Mashups and the Web as Platform](https://www.programmableweb.com/)  
+- [Chrome Platform Status](https://chromestatus.com/roadmap)  
+- [新冠药物指南及应对攻略集合](https://docs.qq.com/sheet/DV3hFQXNCaHJMZ3Nq?tab=BB08J2)  
+- [BrowserBench.org — Browser Benchmarks](https://browserbench.org/)  
+- [走出去公共服务平台](http://fec.mofcom.gov.cn/article/gbdqzn/)  
+- [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)  
+- [The Twelve-Factor App](https://12factor.net/)  
+- [Excalidraw](https://excalidraw.com/)  
+- [Relingo | 学习英语](https://relingo.net/en/index)  
+- [所有 - 滴答清单](https://dida365.com/webapp/#q/all/tasks)  
+- [Gentoo Wiki](https://wiki.gentoo.org/wiki/Main_Page)  
+- [Can I DevTools?](https://www.canidev.tools/)  
+- [Calm - The #1 App for Meditation and Sleep](https://www.calm.com/app/meditate)  
+- [HashiCorp Developer](https://developer.hashicorp.com/)  
+- [Careers | Mapbox](https://www.mapbox.com/careers)  
+- [Orgzly | Notes & To-Do Lists](http://www.orgzly.com/)  
+- [Orgro: A mobile Org Mode file viewer](https://orgro.org/)  
+- [Longman Dictionary of Contemporary English | LDOCE](https://www.ldoceonline.com/search/english/direct/?q=%s)  
+- [Longman Dictionary of Contemporary English | LDOCE](https://www.ldoceonline.com/)  
+- [微信读书-正版书籍小说免费阅读](https://weread.qq.com/)  
+- [poteto/hiring-without-whiteboards: ⭐️ Companies that don't have a broken hiring process](https://github.com/poteto/hiring-without-whiteboards)  
+- [爱拓奇 italki - Learn 150+ foreign languages with professional teachers online](https://www.italki.cn/en)  
+- [No Whiteboard](https://www.nowhiteboard.org/)  
+- [银河航天](http://www.yinhe.ht/)  
+- [timqian/chinese-independent-blogs: 中文独立博客列表](https://github.com/timqian/chinese-independent-blogs)  
+- [得到App，知识就在得到 | 罗振宇罗辑思维全套免费听](https://www.igetget.com/)  
+- [Amazon.com: Manage Your Content and Devices](https://www.amazon.com/hz/mycd/digital-console/contentlist/booksAll/dateDsc/)  
+- [Careers at StackBlitz](https://stackblitz.com/careers)  
+- [BFE.dev - prepare for Front-End job interviews.](https://bigfrontend.dev/)  
+- [DevDocs API Documentation](https://devdocs.io/)  
+- [npm Docs](https://docs.npmjs.com/)  
+- [Wormhole - Simple, private file sharing](https://wormhole.app/)  
+- [多邻国 - 好玩高效的英语学习途径](https://www.duolingo.com/learn)  
+- [Index of /announcements/changelogs/plasma/5](https://kde.org/announcements/changelogs/plasma/5/)  
+- [彩云API-天气+翻译](https://platform.caiyunapp.com/dashboard/index)  #API#天气API
+- [NGINXConfig | DigitalOcean](https://www.digitalocean.com/community/tools/nginx)  
+- [DanielDe/org-web: org-mode on the web, built with React, optimized for mobile, synced with Dropbox and Google Drive](https://github.com/DanielDe/org-web)  
+- [Hello Worg, the Org-Mode Community!](https://orgmode.org/worg/)  
+- [Arch Linux 中文论坛](https://bbs.archlinuxcn.org/)  
+- [Arch Linux Forums](https://bbs.archlinux.org/)  
+- [BlackGlory and his digital garden](https://blackglory.me/)  
+- [BAYC](https://boredapeyachtclub.com/#/)  
+- [Workspaces — Gitpod](https://gitpod.io/workspaces)  
+- [Welcome to LWN.net [LWN.net]](https://lwn.net/)  
+- [Kali Tools | Kali Linux Tools](https://www.kali.org/tools/)  
+- [Kernel coverage at LWN.net [LWN.net]](https://lwn.net/Kernel/)  
+- [Julia Evans](https://www.jvns.ca/)  
+- [Libvirt Wiki](https://wiki.libvirt.org/page/Main_Page)  
+- [Search site:man7.org/linux/man-pages at DuckDuckGo](https://duckduckgo.com/?t=ffab&q=%s+site%3Aman7.org%2Flinux%2Fman-pages&ia=web)  
+- [Linux Documentation](https://linux.die.net/)  
+- [Linux man pages online](https://man7.org/linux/man-pages/index.html)  
+- [The Linux man-pages project](https://www.kernel.org/doc/man-pages/)  
+- [Welcome to QEMU’s documentation! — QEMU documentation](https://www.qemu.org/docs/master/)  
+- [WikiDiff |](https://wikidiff.com/)  
+- [Available lists - lists.archlinux.org](https://lists.archlinux.org/archives/)  
+- [earfanfan | 袁凡](https://yuanfan.rbind.io/)  
+- [BLOCKY](https://blocky.greatfire.org/)  
+- [Red Hat Customer Portal - Access to 24x7 support and knowledge](https://access.redhat.com/)  
+- [Hybrid Cloud Developer Tutorials and Software from Red Hat | Red Hat Developer](https://developers.redhat.com/)  
+- [Package statistics](https://pkgstats.archlinux.de/packages)  
+- [emojidex - custom emoji service and apps](https://www.emojidex.com/)  
+- [Join Unsplash: Beautiful, free photos](https://unsplash.com/about)  
+- [API Applications | Unsplash](https://unsplash.com/oauth/applications)  
+- [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)  
+- [Devhints — TL;DR for developer documentation](https://devhints.io/)  
+- [Arch Linux Forums](https://bbs.archlinux.org/index.php)  
+- [Arch Linux 中文论坛](https://bbs.archlinuxcn.org/index.php)  
+- [sync your runs, rides & more • tapiriik](https://tapiriik.com/)  
+- [Welcome to Linux From Scratch!](https://www.linuxfromscratch.org/)  
+- [UEFI Specification 2.10 — UEFI Specification 2.10 documentation](https://uefi.org/specs/UEFI/2.10/index.html)  
+- [GNU GRUB Manual 2.06](https://www.gnu.org/software/grub/manual/grub/grub.html)  
+- [The Linux Documentation Project](https://tldp.org/)  
+- [Qt | Cross-platform software development for embedded & desktop](https://www.qt.io/)  
+- [This Week in KDE – Adventures in Linux and KDE](https://pointieststick.com/category/this-week-in-kde/)  
+- [Network Encyclopedia | Explore, Learn, Master it!](https://networkencyclopedia.com/)  
+- [Arch Linux - Pacman Mirrorlist Generator](https://archlinux.org/mirrorlist/)  
+- [Convert Markdown Table to CSV - Table Convert Online](https://tableconvert.com/markdown-to-csv)  
+- [ManateeLazyCat](https://manateelazycat.github.io/)  
+- [web.dev](https://web.dev/)  
+- [DailyArt Magazine](https://www.dailyartmagazine.com/) Daily Art History Stories, Reviews, Long Reads, News #Art
+- [Paw – The most advanced API tool for Mac](https://paw.cloud/)  
+- [The Pudding](https://pudding.cool/)  
+- [Hillel Wayne](https://www.hillelwayne.com/)  
+- [A Collection of Unmitigated Pedantry – A look at history and popular culture](https://acoup.blog/)  
+- [Web Platform News](https://webplatform.news/)  
+- [JSON Size Analyzer | DebugBear](https://www.debugbear.com/json-size-analyzer)  
+- [Graphize 🚀](https://apvarun.github.io/graphize/)  
+- [JSON Viewer - JSON Hero](https://jsonhero.io/)  
+- [Editor | JSON Visio](https://jsonvisio.com/editor)  
+- [张鑫旭-鑫空间-鑫生活](https://www.zhangxinxu.com/wordpress/)  
+- [Igalia - Open Source Consultancy and Development](https://www.igalia.com/)  
+- [Colour Contrast Checker](https://colourcontrast.cc/)  
+- [CSS3 Gradient](https://projects.verou.me/css3patterns/)  
+- [DNS lookups!](https://dns-lookup.jvns.ca/)  
+- [HashiCorp: Infrastructure enables innovation](https://www.hashicorp.com/)  
+- [Dictionary, Encyclopedia and Thesaurus - The Free Dictionary](https://www.thefreedictionary.com/)  
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)  
+- [IETF HTTP Working Group](https://httpwg.org/)  
+- [musicForProgramming();](https://musicforprogramming.net/latest/)  
+- [Coolors - The super fast color palettes generator!](https://coolors.co/)  
+- [【孔夫子旧书网】网上买书：图书_书籍_古籍_二手书，网上卖书：网上书店_古旧书拍卖，国内专业的古旧书交易平台](https://www.kongfz.com/)  
+- [企业库_清科数据库:上市_募资_并购企业库_投资界](https://zdb.pedaily.cn/enterprise/)  
+- [Trusted Open Source PostgreSQL & Commercial Support for the Enterprise | Crunchy Data](https://www.crunchydata.com/)  
+- [NumPad](https://numpad.io/)  
+- [Lex Fridman](https://lexfridman.com/)  
+- [Hubs - Private, virtual 3D spaces in your browser](https://hubs.mozilla.com/)  
+- [LibreSpeed - Speedtest](https://librespeed.org/)  
+- [Comprehensive IP address data, IP geolocation API and database - IPinfo.io](https://ipinfo.io/)  
+- [首页 | Sukka's Blog](https://blog.skk.moe/)  
+- [YC Startup Library | Y Combinator](https://www.ycombinator.com/library)  
+- [Variable Fonts](https://v-fonts.com/)  
+- [口琴之家_口琴曲谱_口琴学习教程_口琴基础入门_口琴教学](http://www.qiyuezhijia.com/kouqin/)  
+- [蓝调口琴网](http://www.tenholes.com/)  
+- [Free-scores.com : World Free Sheet Music (PDF, MIDI, MP3)](https://www.free-scores.com/index_uk.php)  
+- [Time.is 13:17](https://time.is/)  
+- [杭州大名维森软件有限公司](https://www.damingsoft.com/default.aspx)  
+- [Free Music Archive - Welcome to the Free Music Archive](https://freemusicarchive.org/home)  
+- [CSS Gradient — Generator, Maker, and Background](https://cssgradient.io/)  
+- [UXmatters :: Insights and inspiration for the user experience community](https://www.uxmatters.com/)  
+- [emoji.supply](https://emoji.supply/)  
+- [Arch Linux - News](https://archlinux.org/news/)  
+- [Help Shanghai](https://helpshanghai.com/)  
+- [tldraw](https://www.tldraw.com/)  
+- [Min-Max-Value Interpolation](https://min-max-calculator.9elements.com/)  
+- [Home - Mozilla Connect](https://connect.mozilla.org/)  
+- [Express - Node.js web application framework](https://expressjs.com/)  
+- [CSS Arrow Please - By Simon Hoejberg - @shojberg](https://cssarrowplease.com/)  
+- [The Open Source Firebase Alternative | Supabase](https://supabase.com/)  
+- [爱思想](http://www.aisixiang.com/)  
+- [RatioBuddy - Aspect ratio calculator](https://ratiobuddy.com/)  
+- [OpenWrt - 概览 - LuCI](http://192.168.0.101/cgi-bin/luci/)  
+- [Run JavaScript Everywhere.](https://nodejs.dev/)  
+- [The CanIUse Embed](https://caniuse.bitsofco.de/)  
+- [Mozilla](https://www.mozilla.org/en-US/)  
+- [Datasets - Axiom](https://cloud.axiom.co/tianheg-bvsm/datasets/vercel)  
+- [Moiva.io - Discover and Compare GitHub and NPM packages](https://moiva.io/)  
+- [Home · Cloudflare Docs](https://developers.cloudflare.com/)  
+- [google webfonts helper](https://google-webfonts-helper.herokuapp.com/fonts)  
+- [Works on Workers · Cloudflare Workers®](https://workers.cloudflare.com/works)  
+- [Open Positions at Cloudflare | Cloudflare](https://www.cloudflare.com/careers/jobs/)  
+- [OpenStreetMap](https://www.openstreetmap.org/)  
+- [统计之都](https://cosx.org/)  
+- [CodyHouse | Web Design Nuggets](https://codyhouse.co/)  
+- [中国法律服务网](http://www.12348.gov.cn/#/homepage)  
+- [Qualys SSL Labs - Projects / SSL Client Test](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html)  
+- [The W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)  
+- [The W3C Markup(HTML) Validation Service](https://validator.w3.org/)  
+- [Thoughtworks: A global technology consultancy | Thoughtworks](https://www.thoughtworks.com/)  
+- [Atlassian | Software Development and Collaboration Tools](https://www.atlassian.com/)  
+- [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)  
+- [Open Library](https://openlibrary.org/)  
+- [pnpm](https://pnpm.io/)  
+- [Sass: Documentation](https://sass-lang.com/documentation/)  
+- [前端工程师 - 深圳支流科技有限公司 -- 全流量管理: API 网关 & Kubernetes Ingress Controller & 服务网格](https://www.apiseven.com/careers/front-end-engineer)  
+- [API7.ai -- Full Traffic Management: API Gateway & Kubernetes Ingress Controller & Service Mesh - API7.ai -- Full Traffic Management: API Gateway & Kubernetes Ingress Controller & Service Mesh](https://api7.ai/)  
+- [Blinkist: Powerful ideas—15 minutes at a time](https://www.blinkist.com/en/)  
+- [Goodies](https://www.joshwcomeau.com/goodies/)  
+- [AakashRao-dev/CSS-Cheatsheets: Get all of my CSS Cheatsheets from here which I have created & shared on twitter. Thanks for the support. 💜](https://github.com/AakashRao-dev/CSS-Cheatsheets)  
+- [CSS Reference - A free visual guide to CSS](https://cssreference.io/)  
+- [Best JSON Formatter and JSON Validator: Online JSON Formatter](https://jsonformatter.org/)  
+- [CSS Portal - Generators, Resources, Tools, HTML - CSS Portal](https://www.cssportal.com/)  
+- [CSS Generator Tool - CSS Demonstration and Generation](https://cssgenerator.org/)  
+- [Box-shadow generator](https://mdn.github.io/css-examples/tools/box-shadow-generator/)  
+- [Wiktionary, the free dictionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page)  
+- [Firefox Source Tree Documentation — Firefox Source Docs documentation](https://firefox-source-docs.mozilla.org/)  
+- [CSS key concepts](https://developer.mozilla.org/en-US/docs/Web/CSS#reference)  
+- [CSS Snapshot 2021](https://www.w3.org/TR/css/)  
+- [Discover Vagrant Boxes - Vagrant Cloud](https://app.vagrantup.com/boxes/search)  
+- [Home | Daybridge](https://daybridge.com/)  
+- [前端工作面试问题 ★ Front-end Job Interview Questions](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/chinese/#general-questions)  
+- [Amber Garage - a Silicon Valley based creative art and tech studio](https://ambergarage.com/)  
+- [DJI 大疆创新 - 官方网站](https://www.dji.com/cn)  
+- [Programming Interview Questions | CareerCup](https://careercup.com/)  
+- [Canny: Customer Feedback Management Tool](https://canny.io/)  
+- [Grammarly](https://app.grammarly.com/)  
+- [WCAG 2 Overview | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/standards-guidelines/wcag/)  
+- [Colorblind Web Page Filter Testing Tool & Simulator | Toptal®](https://www.toptal.com/designers/colorfilter)  #a11y
+- [Toptal - Hire Freelance Talent from the Top 3%](https://www.toptal.com/)  
+- [Figma](https://www.figma.com/files/recent)  
+- [Turing - Hire Remote Developers | Top 1% of 1.5 Million+ software engineers](https://www.turing.com/)  
+- [Free Website Builder | Create a Free Website | Wix.com](https://www.wix.com/)  
+- [Visual Sitemap Tool](https://octopus.do/projects)  
+- [Magi](https://magi.com/)  
+- [tianheg’s gists](https://gist.github.com/tianheg)  
+- [Zapier | Automation that moves you forward](https://zapier.com/)  
+- [WebAIM: Web Accessibility In Mind](https://webaim.org/)  
+- [Web Accessibility is accessiBe [ADA - WCAG 2.1 - Section 508]](https://accessibe.com/)  
+- [Skypack: search millions of open source JavaScript packages](https://www.skypack.dev/)  
+- [Awesome Wallpapers - wallhaven.cc 壁纸](https://wallhaven.cc/)  
+- [Lorem Picsum 图片](https://picsum.photos/)  
+- [Multi-functional image converterNo need to upload files](https://renzhezhilu.github.io/webp2jpg-online/)  
+- [images](https://imagestool.com/)  
+- [The Movie Database (TMDB)](https://www.themoviedb.org/)  
+- [server - DigitalOcean](https://cloud.digitalocean.com/)  
+- [https://railway.app/](https://railway.app/)  #SaaS
+- [Software Engineer: Full Stack | Railway](https://railway.app/careers/full-stack)  
+- [Agoric - Deploy Secure DeFi in JavaScript](https://agoric.com/)  
+- [SVG Repo - Free SVG Vectors and Icons](https://www.svgrepo.com/)  
+- [新诗馆](http://www.poeting.cn/)  
+- [诗人目录 - 汉语现诗语料库](https://www.chinese-poetry.org/)  
+- [搜索结果 - PoemWiki](https://poemwiki.org/q)  
+- [读首诗再睡觉 | 我愿做那口空气，在你身体里作片刻的逗留。——《睡的变奏》玛格丽特·阿特伍德](https://bedtimepoem.com/)  
+- [Wayland](https://wayland.freedesktop.org/)  
+- [Wayland Protocol Documentation | Wayland Explorer](https://wayland.app/protocols/)  
+- [tianheg/dotweb](https://github.com/tianheg/dotweb)  
+- [CSS current work & how to participate](https://www.w3.org/Style/CSS/current-work)  
+- [Directory listing for web-platform-tests](https://wpt.live/)  
+- [web-platform-tests dashboard](https://wpt.fyi/)  #web
+- [The first commented line is your dabblet’s title ✿ dabblet.com](https://dabblet.com/)  
+- [求闻百科，共笔求闻](https://www.qiuwenbaike.cn/wiki/Qiuwen:%E9%A6%96%E9%A1%B5)  #Wiki
+- [D3.js - Data-Driven Documents](https://d3js.org/)  
+- [The Visual Agency | A data visualization company](https://thevisualagency.com/)  
+- [UX Collective](https://uxdesign.cc/)  
+- [Web Skills](https://andreasbm.github.io/web-skills/?compact)  
+- [Miriam's CSS Sandbox](https://css.oddbird.net/)  
+- [CSS Working Group Editor Drafts](https://drafts.csswg.org/)  
+- [/uses](https://uses.tech/)  
+- [Home | Open UI](https://open-ui.org/)  
+- [Next.js](https://nextjs.org/docs)  
+- [Vite | Next Generation Frontend Tooling](https://vitejs.dev/)  #dev
+- [Releases | Node.js](https://nodejs.org/en/about/releases/)  
+- [無標題文檔](https://www.gracecode.com/)  
+- [Sliderland](https://sliderland.blinry.org/)  
+- [Blue Oak Council](https://blueoakcouncil.org/)  
+- [(t,i,x,y) => "creative code golfing"](https://tixy.land/)  
+- [Neave Interactive](https://neave.com/)  
+- [Favicon Generator for perfect icons on all browsers](https://realfavicongenerator.net/)  
+- [Vue.js - The Progressive JavaScript Framework | Vue.js](https://vuejs.org/)  
+- [Home - earth.fm](https://earth.fm/)  
+- [daily.dev | The Homepage Developers Deserve](https://app.daily.dev/)  
+- [🎨 HTML Color Codes](https://html-color.codes/)  
+- [CSS current work & how to participate](https://www.w3.org/Style/CSS/current-work.en.html)  
+- [Tutorials and Howtos - Alpine Linux](https://wiki.alpinelinux.org/wiki/Tutorials_and_Howtos)  
+- [Wiki.js | Wiki.js](https://docs.requarks.io/)  
+- [jQuery CDN](https://releases.jquery.com/)  
+- [Microsoft Ajax Content Delivery Network Assets | Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/ajax/cdn/overview#jQuery_Releases_on_the_CDN_0)  
+- [Hosted Libraries  |  Google Developers](https://developers.google.com/speed/libraries)  
+- [cdnjs - The #1 free and open source CDN built to make life easier for developers](https://cdnjs.com/)  
+- [jsDelivr - A free, fast, and reliable CDN for open source](https://www.jsdelivr.com/)  
+- [BootCDN - Bootstrap 中文网开源项目免费 CDN 加速服务](https://www.bootcdn.cn/)  
+- [Staticfile CDN](http://www.staticfile.org/)  
+- [茶饭](https://cha.fan/)  
+- [首页 - 合同示范文本库 - 国家市场监督管理总局](https://cont.12315.cn/)  
+- [ECMAScript® 2022 Language Specification](https://262.ecma-international.org/13.0/)  
+- [网站测试](https://gtmetrix.com/)  
+- [财新网-原创财经新媒体](https://www.caixin.com/?HOLDZH)  
+- [高德地图](https://ditu.amap.com/)  
+- [职位 | InCareer](https://www.linkedin.cn/incareer/jobs)  
+- [Primer Prism](https://primer.style/prism/)  
+- [Algorithm Visualizer](https://algorithm-visualizer.org/)  
+- [Compress, convert and optimize images online in PNG, JPEG, SVG, AVIF, WebP and GIF formats](https://www.optimizeimages.com/tool)  
+- [RapidAPI | Developer Dashboard](https://rapidapi.com/developer/dashboard)  
+- [pkg.land](https://pkg.land/)  
+- [电鸭 - 远程工作、自由职业、兼职外包，自由从这开始](https://eleduck.com/)  
+- [remoteintech/remote-jobs: A list of semi to fully remote-friendly companies (jobs) in tech.](https://github.com/remoteintech/remote-jobs)  
+- [OSS Insight | Open Source Software Analysis and Comparing Tools](https://ossinsight.io/)  #dev
+- [Webapps - Made with Vue.js](https://madewithvuejs.com/webapps)  
+- [StackBlitz](https://stackblitz.com/)  
+- [[OpenWrt Wiki] Raspberry Pi](https://openwrt.org/toh/raspberry_pi_foundation/raspberry_pi#installation)  
+- [Breed 介绍、刷入和使用 | 乐园](https://ywang-wnlo.github.io/posts/53d6c2d9.html)  
+- [[OpenWrt Wiki] TP-Link TL-WDR6500 v2 / TL-WDR7800 v1](https://openwrt.org/toh/tp-link/tl-wdr6500_v2)  
+- [HackPascal @ Home](https://blog.hackpascal.net/)  
+- [奈飞小铺 - 我的订单](https://www.ihezu.cn/u/order)  
+- [TL-WDR6500](http://192.168.0.1/)  
+- [我的坚果云 - 坚果云 - 云盘|网盘|企业网盘|同步|备份|无限空间|免费网络硬盘|企业云盘](https://www.jianguoyun.com/#/)  
+- [数码荔枝 x 软件商店 - 专注于分享最新鲜优秀的正版软件](https://store.lizhi.io/index.php)  
+- [NeoDB - 我的主页](https://neodb.social/)  
+- [发现API](https://apitracker.io/)  
+- [ACM Digital Library](https://dl.acm.org/)  
+- [【群众服务】太和籍高校毕业生人事档案邮寄及报到服务指南-太和县政府信息公开](https://www.taihe.gov.cn/xxgk/detail/60bed539886688b5188b456d.html)  
+- [太和县人力资源和社会保障局电话_地址_上班时间_在哪里-城际分类网](http://wap.go007.com/ditu/shebaoju/1544916.html?zzaqkey=4294119958)  
+- [Responsive Viewer](https://responsiveviewer.org/)  #dev
+- [Sci-Hub](https://sci-hub.se/)  
+- [太和县人民政府](https://www.taihe.gov.cn/)  
+- [毕业生接收手续办理](https://www.taihe.gov.cn/bsfw/show/?ssqdId=4028e6a0801c8ee10180bc9936fb71d0&ssqdCode=0769708b38f7426784905fc36bf4c194)  
+- [Color Palettes for Designers and Artists - Color Hunt](https://colorhunt.co/)  
+- [Remote Jobs in Programming, Support, Design and more](https://remotive.com/)  
+- [Render 提供 PostgreSQL 服务](https://render.com/docs/databases)  
+- [Railway](https://railway.app/dashboard)  
+- [Dashboard: Overview - Mailgun](https://app.mailgun.com/app/dashboard)  #email
+- [Upstash: Serverless Data for Redis and Kafka, Console](https://console.upstash.com/redis/0cd4ba32-bbdb-462b-85be-af3ccbc692c4)  
+- [yacd proxy](http://localhost:1234/)  
+- [Flush Cache - Google Public DNS](https://dns.google/cache)  
+- [markup.rocks](https://markup.rocks/)  
+- [Cloudflare](https://dash.cloudflare.com/login)  
+- [Crontab.guru - The cron schedule expression editor](https://crontab.guru/)  
+- [Icônes](https://icones.js.org/)  
+- [事不过三](https://via.zhubai.love/)  
+- [Welcome to Netlify | Netlify](https://app.netlify.com/)  
+- [RegExr: Learn, Build, & Test RegEx](https://regexr.com/)  
+- [Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://mermaid.live/)  
+- [Exercism](https://exercism.org/dashboard)  
+- [Prism](https://prismjs.com/#supported-languages)  
+- [Vocabulary.com Dictionary - Meanings, Definitions, Quizzes, and Word Games | Vocabulary.com](https://www.vocabulary.com/dictionary/)  
+- [有道首页](http://dict.youdao.com/)  
+- [Wordnik](https://www.wordnik.com/)  
+- [Dictionary by Merriam-Webster: America's most-trusted online dictionary](https://www.merriam-webster.com/)  
+- [快招聘-职位](https://www.kuaizp.cn/seeker/job.html?key_id=711&pid=16&)  
+- [Learn CSS Grid Mastery Game](https://gridcritters.com/)  
+- [CSS Game](http://victordarras.fr/cssgame/)  
+- [CSS 3D Transforms](https://rupl.github.io/unfold/)  
+- [CSS Grid Garden](https://cssgridgarden.com/)  
+- [CSS Flexbox](http://www.flexboxdefense.com/)  
+- [CSSBattle](https://cssbattle.dev/)  
+- [CSS Diner](https://flukeout.github.io/)  
+- [Codewars](https://www.codewars.com/dashboard)  
+- [国内创业公司,优质创业项目 | IT桔子](https://www.itjuzi.com/company?scope=%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6&sub_scope=%E6%B5%8F%E8%A7%88%E5%99%A8&location=hot&located=%E5%9B%BD%E5%86%85&hot_city=%E6%9D%AD%E5%B7%9E&prov=%E6%B5%99%E6%B1%9F&city=%E6%9D%AD%E5%B7%9E&status=%E8%BF%90%E8%90%A5%E4%B8%AD&sort=id)  
+- [企业信息查询-老板信息查询](https://www.dingtalk.com/qidian/home)  
+- [互联网公司](https://shimo.im/sheets/VMAPVy0N5XfRrpqg/MODOC)  
+- [新财观察：数据预见产业未来](https://www.uvfortune.cn/)  
+- [小微企业名录](http://gthnb.zjzwfw.gov.cn/pub/smallentdir/index)  
+- [国家企业信用信息公示系统](http://zj.gsxt.gov.cn/index.html)  
+- [Firefox Developer Hub](https://addons.mozilla.org/en-US/developers/)  
+- [图书馆](http://lib.lnpu.edu.cn/)  
+- [牛客题库](https://www.nowcoder.com/exam/oj)  
+- [Search CSS-Tricks](https://css-tricks.com/?s=%s)  
+- [计算机词典](https://www.computerhope.com/)  
+- [GitHub 文件加速](https://gh-proxy.tianheg.workers.dev/)  
+- [金山文档](https://www.kdocs.cn/latest)  
+- [Search MDN Web Docs](https://developer.mozilla.org/en-US/search?q=%s)  
+- [World Service - Listen Live - BBC Sounds](https://www.bbc.co.uk/sounds/play/live:bbc_world_service)  
+- [哔哩哔哩AV号/BV号转换器 - 一个工具箱 - 好用的在线工具都在这里！](http://www.atoolbox.net/Tool.php?Id=910)  
+- [Dashboard | Khan Academy](https://www.khanacademy.org/profile/kaid_7072029711086949875029491/courses)  
+- [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)  
+- [Upwork](https://www.upwork.com/)  
+- [洞见研报-赋能商业决策 | 专业实时研报分享，行业研究报告下载，行业分析报告，券商研报，免费报告下载，行业智库](https://www.djyanbao.com/index)  
+- [IT桔子 | 泛互联网创业投资项目信息数据库及商业信息服务商](https://www.itjuzi.com/)  
+- [McKinsey & Company | Global management consulting](https://www.mckinsey.com/)  
+- [CBNData-第一财经商业数据中心](https://www.cbndata.com/home)  
+- [Boston Consulting Group | Management Consulting | BCG](https://www.bcg.com/zh-cn/)  
+- [TalkingData-移动.数据.价值](https://www.talkingdata.com/)  
+- [德勤 | 审计, 企业管理咨询, 财务咨询, 风险咨询, 税务服务及行业洞察](https://www2.deloitte.com/cn/zh.html)  
+- [PwC CN: PricewaterhouseCoopers China](https://www.pwccn.com/)  
+- [研究报告_科技与产业创新研究机构_亿欧智库](https://www.iyiou.com/research)  
+- [百度营销-用科技让营销更简单](http://e.baidu.com/ebaidu/home/)  
+- [站酷 (ZCOOL) - 设计师互动平台 - 打开站酷，发现更好的设计！](https://www.zcool.com.cn/)  
+- [腾讯广告-助力企业实现营销目标](https://e.qq.com/ads/)  
+- [艾媒网-全球领先的新经济行业数据分析报告发布平台](https://www.iimedia.cn/)  
+- [艾瑞数据 - 数据改变认知 提升企业效能](https://data.iresearch.com.cn/home.shtml)  
+- [蝉大师_专业APP推广和关键词大数据分析平台_权威的ASO与ASA优化方案](https://www.chandashi.com/)  
+- [阿里数据－阿里指数](https://dt.alibaba.com/alizs.htm)  
+- [阿里研究院](http://www.aliresearch.com/cn/index)  
+- [主页 - 毕马威中国](https://home.kpmg/cn/zh/home.html)  
+- [腾讯研究院](https://www.tisi.org/)  
+- [百度指数](https://index.baidu.com/v2/index.html#/)  
+- [站长工具-百度权重排名查询-站长seo查询 - 爱站网](https://www.aizhan.com/)  
+- [清博舆情分析系统_互联网大数据分析平台](https://yuqing.gsdata.cn/)  
+- [Our World in Data](https://ourworldindata.org/)  #data
+- [梅花网-营销作品宝库](https://www.meihua.info/)  
+- [林克舆情分析平台](http://yq.linkip.cn/user/login.do)  
+- [信息流投放-短视频广告素材分析-落地页模板-App Growing](https://appgrowing.cn/)  
+- [站长工具 - 站长之家](https://tool.chinaz.com/)  
+- [易观分析-数据驱动精益成长](https://www.analysys.cn/)  
+- [微热点(微舆情)官方网站(wrd.cn)-媒体传播大数据应用平台|热度指数|传播分析|口碑分析|微博情绪](https://www.wrd.cn/login.shtml)  
+- [新榜——内容产业服务平台](https://www.newrank.cn/)  
+- [List of emerging technologies - Wikipedia](https://en.wikipedia.org/wiki/List_of_emerging_technologies)  
+- [算数指数-巨量算数](https://trendinsight.oceanengine.com/arithmetic-index)  
+- [国家企业信用信息公示系统](http://www.gsxt.gov.cn/index.html)  
+- [【发现报告】专业研报平台丨收录海量行业报告/券商研报丨免费分享行业研报](https://www.fxbaogao.com/)  
+- [友盟+，国内领先的第三方全域数据智能服务商](https://www.umeng.com/)  
+- [Elsevier | 資訊分析公司 | 強化知識](https://www.elsevier.com/zh-tw)  
+- [360营销学院](http://yingxiao.360.cn/)  
+- [360趋势-大数据分享平台](https://trends.so.com/)  
+- [36氪_让一部分人先看到未来](https://36kr.com/)  
+- [36氪研究院_36氪](https://36kr.com/academe.html)  
+- [Crunchbase: Discover innovative companies and the people behind them](https://www.crunchbase.com/)  
+- [EPSDATA官网](https://www.epsnet.com.cn/index.html#/Index)  
+- [中国执行信息公开网](http://zxgk.court.gov.cn/)  
+- [互联网数据资讯网-199IT | 发现数据的价值-199IT | 中文互联网数据研究资讯中心-199IT](http://www.199it.com/)  
+- [产品经理导航|运营导航|设计师导航-阿猫阿狗导航](https://dh.woshipm.com/)  
+- [企查查-企业工商信息查询系统_查企业_查老板_查风险就上企查查!](https://www.qcc.com/)  
+- [创业邦 - 关注创新经济及其推动者](https://www.cyzone.cn/)  
+- [艾瑞网_互联网数据资讯聚合平台](https://www.iresearch.cn/)  
+- [艺恩-数据智能服务商_首页](https://www.endata.com.cn/)  
+- [BOSS直聘](https://www.zhipin.com/)  
+- [牛客网](https://www.nowcoder.com/)  
+- [力扣算法](https://leetcode-cn.com/)  
+- [启信宝-企业查询_企业信用信息平台](https://www.qixin.com/)  
+- [天眼查-商业查询平台_企业信息查询_公司查询_工商查询_企业信用信息系统](https://www.tianyancha.com/)  
+- [学信档案](https://my.chsi.com.cn/archive/index.action?trnd=91809576272092796373659187058363)  
