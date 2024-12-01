@@ -1,3 +1,4 @@
+- [孔枝泳：站在弱者的立场书写](https://wanqian.blog/2024/11/25/%e5%ad%94%e6%9e%9d%e6%b3%b3%ef%bc%9a%e7%ab%99%e5%9c%a8%e5%bc%b1%e8%80%85%e7%9a%84%e7%ab%8b%e5%9c%ba%e4%b9%a6%e5%86%99/) 不珍惜自己的人往往会随意对待他人，不爱自己的人会虐待和践踏他人。而真正爱自己的人不同于自私者，自私者只爱自己的感官，毁灭自己的灵魂。而真正珍惜自己的人会像对待心爱的孩子一样，给予自己耐心和善意。爱自己就不会一味鞭打或给予不健康的食物，爱自己就会吃好的，看好的，做好的，学习好的。 #女性
 - 为什么善良可以解决一切事情？https://manateelazycat.github.io/2024/10/22/why-kindness-solve-everything/
 - 年轻人的技术选型 https://manateelazycat.github.io/2024/11/16/find-right-tech/
 - https://1byte.io/articles/luck/
