@@ -1,4 +1,4 @@
-- [Global Peace Index - Wikipedia](https://en.wikipedia.org/wiki/Global_Peace_Index) 全球和平指数：过去十年，暴力增加和和平程度下降的趋势 #数据
+- [Global Peace Index - Wikipedia](https://en.wikipedia.org/wiki/Global_Peace_Index) 全球和平指数：2024 年 GPI 的研究结果表明，在过去 16 年中，世界变得更加不和平，全球和平水平在过去 16 年中下降了 6%，最和平与最不和平国家之间的和平差距正在扩大。 #数据#世界局势#和平
 - [The Opportunity Atlas](https://opportunityatlas.org/) 调查美国小孩在哪种环境下更容易成才 #社会调查
 - [《2025年流星雨时间表》](https://mp.weixin.qq.com/s/m8BDOM1Tbr57RKY6I19yiw) #天文
 - [How to Stargaze with Binoculars - Astronomy Challenge #23](https://www.youtube.com/watch?v=68snWC9b8fE) 调节双筒望远镜焦距时，应该左右两眼分别调节 #天文#双筒望远镜
