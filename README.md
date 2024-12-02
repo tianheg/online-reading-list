@@ -1,3 +1,4 @@
+- [没什么长进的23岁](https://mp.weixin.qq.com/s/VHGiLo6yBvmlqJbpMWF6sw) 生活并不总是明亮的时刻。还有想在干草地里撒欢儿打滚儿、想变成插进雪堆窜天猴的瞬间，以及那些不至于绝望、也暂时拒绝想象希望的时候 #成长
 - [向“学新闻学的”致意](https://mp.weixin.qq.com/s/6qmnSjF4q4MdQu7V2hTBiA) “新闻理想就像内裤，你不是超人，不用每天内裤外穿在外面晃荡，但不能没有。” #理想#新闻报道
 - [Global Peace Index - Wikipedia](https://en.wikipedia.org/wiki/Global_Peace_Index) 全球和平指数：2024 年 GPI 的研究结果表明，在过去 16 年中，世界变得更加不和平，全球和平水平在过去 16 年中下降了 6%，最和平与最不和平国家之间的和平差距正在扩大。 #数据#世界局势#和平
 - [The Opportunity Atlas](https://opportunityatlas.org/) 调查美国小孩在哪种环境下更容易成才 #社会调查
