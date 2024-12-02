@@ -1,3 +1,4 @@
+- [Out of the Gobi - Wikipedia](https://en.wikipedia.org/wiki/Out_of_the_Gobi) 如果大环境一直很糟糕，自己要在戈壁待一辈子而没有出头之日，他没有谁可怨；但是如果将来发生变化，因为自己没有准备好而失去了改变命运的机会，他只能怪自己。所以他在逆境中也一直在为将来准备。 #非虚构自传
 - [Atlas on X: "If you want fame, solve poor people's problems.
 If you want wealth, solve rich people's problems.
 
