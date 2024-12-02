@@ -1,12 +1,5 @@
 - [Out of the Gobi - Wikipedia](https://en.wikipedia.org/wiki/Out_of_the_Gobi) 如果大环境一直很糟糕，自己要在戈壁待一辈子而没有出头之日，他没有谁可怨；但是如果将来发生变化，因为自己没有准备好而失去了改变命运的机会，他只能怪自己。所以他在逆境中也一直在为将来准备。 #非虚构自传
-- [Atlas on X: "If you want fame, solve poor people's problems.
-If you want wealth, solve rich people's problems.
-
-Poor people don’t need real solutions—they just want to forget their problems. That's why their demand for entertainment never ends." / X](https://x.com/DentesLeo/status/1844045312089825657) If you want fame, solve poor people's problems.
-
-If you want wealth, solve rich people's problems.
-
-Poor people don’t need real solutions—they just want to forget their problems. That's why their demand for entertainment never ends #产品思路
+- [Atlas on X: "If you want fame, solve poor people's problems. If you want wealth, solve rich people's problems. Poor people don’t need real solutions—they just want to forget their problems. That's why their demand for entertainment never ends." / X](https://x.com/DentesLeo/status/1844045312089825657) #产品思路
 - [About Julia Evans](https://jvns.ca/about/) I have one main opinion about programming, which is that deeply understanding the underlying systems you use (the browser, the kernel, the operating system, the network layers, your database, HTTP, whatever you’re running on top of) is essential if you want to do technically innovative work and be able to solve hard problems.
 - [没什么长进的23岁](https://mp.weixin.qq.com/s/VHGiLo6yBvmlqJbpMWF6sw) 生活并不总是明亮的时刻。还有想在干草地里撒欢儿打滚儿、想变成插进雪堆窜天猴的瞬间，以及那些不至于绝望、也暂时拒绝想象希望的时候 #成长
 - [向“学新闻学的”致意](https://mp.weixin.qq.com/s/6qmnSjF4q4MdQu7V2hTBiA) “新闻理想就像内裤，你不是超人，不用每天内裤外穿在外面晃荡，但不能没有。” #理想#新闻报道
@@ -16,7 +9,7 @@ Poor people don’t need real solutions—they just want to forget their problem
 - [How to Stargaze with Binoculars - Astronomy Challenge #23](https://www.youtube.com/watch?v=68snWC9b8fE) 调节双筒望远镜焦距时，应该左右两眼分别调节 #天文#双筒望远镜
 - [建议普通人也要了解一门结构化编程语言](https://blog.solazy.me/20241129/) SQL 是一门结构化的查询语言。想要学会查询，一定要对你查询的数据库表结构有一个充分的了解，在了解和查询的过程，你就会逐渐掌握数据库的结构性和查询的逻辑性。 通过查询数据，让我意识到数据量化的重要性。很多时候，很多现象都不是感性的，需要有充分的数据做支撑，才能讲得清楚明白，能够服众。日常使用中你能通过优化你的 SQL 语句更高效的进行查询，这种持续优化的思维所得到的结果，会复用到你每一次全新的查询中。这种思维能够让你意识到，怎么做事情是更高效的。拓展到生活中，相信你也能触类旁通。你通过学习一个全新的知识体系，并应用在工作和生活中，还能让它真正有效的帮助到你。这种成功带来的感受，会 push 你一次又一次的学习新知识，尝试更多信息给你带来的进步。 #结构化思维#逻辑思考
 - [孔枝泳：站在弱者的立场书写](https://wanqian.blog/2024/11/25/%e5%ad%94%e6%9e%9d%e6%b3%b3%ef%bc%9a%e7%ab%99%e5%9c%a8%e5%bc%b1%e8%80%85%e7%9a%84%e7%ab%8b%e5%9c%ba%e4%b9%a6%e5%86%99/) 不珍惜自己的人往往会随意对待他人，不爱自己的人会虐待和践踏他人。而真正爱自己的人不同于自私者，自私者只爱自己的感官，毁灭自己的灵魂。而真正珍惜自己的人会像对待心爱的孩子一样，给予自己耐心和善意。爱自己就不会一味鞭打或给予不健康的食物，爱自己就会吃好的，看好的，做好的，学习好的。 #女性
-- 为什么善良可以解决一切事情？https://manateelazycat.github.io/2024/10/22/why-kindness-solve-everything/
+- [为什么善良可以解决一切事情？](https://manateelazycat.github.io/2024/10/22/why-kindness-solve-everything/)
 - 年轻人的技术选型 https://manateelazycat.github.io/2024/11/16/find-right-tech/
 - https://1byte.io/articles/luck/
 - 思维模型
