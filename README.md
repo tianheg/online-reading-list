@@ -1,3 +1,4 @@
+- [PodQuest Search](https://podquest.app/s) AI播客总结 #播客
 - [开源软件有断供的风险吗？](https://mp.weixin.qq.com/s/n-gGEF8xQdv4g8RSOZuC7A) 开源软件的快照版本可在当时的许可协议下使用；四类开源依赖：稳定的、可靠的、可替换的和有风险的依赖 #开源
 - [Out of the Gobi - Wikipedia](https://en.wikipedia.org/wiki/Out_of_the_Gobi) 如果大环境一直很糟糕，自己要在戈壁待一辈子而没有出头之日，他没有谁可怨；但是如果将来发生变化，因为自己没有准备好而失去了改变命运的机会，他只能怪自己。所以他在逆境中也一直在为将来准备。 #非虚构自传
 - [Atlas on X: "If you want fame, solve poor people's problems. If you want wealth, solve rich people's problems. Poor people don’t need real solutions—they just want to forget their problems. That's why their demand for entertainment never ends." / X](https://x.com/DentesLeo/status/1844045312089825657) #产品思路
