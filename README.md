@@ -1,3 +1,8 @@
+- [即刻动态（为什么 Z 世代认为看书是一种浪费时间） – 评论尸 – 虹线](https://1q43.blog/members/pls/activity/17303/) 《为什么 Z 世代认为看书是一种浪费时间》（How Gen Z Came to See Books as a Waste of Time）。
+
+没有更多数据，个体访谈，没有社会学家和人类学家的评论，没有传播学者的解析，没有引用理论框架，没有任何有价值增量的信息。
+
+因为这是一篇“荐书简报的引言”，它的目的是吸引我点击、转化、订阅这个美国的老牌杂志，然后进去看看 Atlantic 本周的编辑荐书。
 - [VectorChord：在 PostgreSQL 中以 1 美元的价格存储 40 万 Vectors](https://mp.weixin.qq.com/s/6CUMttvcme-RANi-cBwkrw) #postgresql
 - [PodQuest Search](https://podquest.app/s) AI播客总结 #播客
 - [开源软件有断供的风险吗？](https://mp.weixin.qq.com/s/n-gGEF8xQdv4g8RSOZuC7A) 开源软件的快照版本可在当时的许可协议下使用；四类开源依赖：稳定的、可靠的、可替换的和有风险的依赖 #开源
