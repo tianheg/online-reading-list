@@ -1,3 +1,4 @@
+- [城堡阅读](https://www.yuque.com/cbyd/chengbao)
 - [评论尸的 AI 生产力经验 – 虹线](https://1q43.blog/post/10695/) 上文不超限，下文输出质量才有保证 #ai使用
 - [即刻动态（为什么 Z 世代认为看书是一种浪费时间） – 评论尸 – 虹线](https://1q43.blog/members/pls/activity/17303/) 《为什么 Z 世代认为看书是一种浪费时间》（How Gen Z Came to See Books as a Waste of Time）。
 
