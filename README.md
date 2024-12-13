@@ -1,3 +1,4 @@
+- [不要轻易地走进 AI Native（AI 原生） – 虹线](https://1q43.blog/post/10736/)
 - [timvisee/send: :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send](https://github.com/timvisee/send) 在线文件分享共享
 - [城堡阅读](https://www.yuque.com/cbyd/chengbao)
 - [评论尸的 AI 生产力经验 – 虹线](https://1q43.blog/post/10695/) 上文不超限，下文输出质量才有保证 #ai使用
