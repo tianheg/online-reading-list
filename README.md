@@ -1,3 +1,4 @@
+- [(My) Seasons of Writing](https://notes.jeddacp.com/my-seasons-of-writing/)
 - [不要轻易地走进 AI Native（AI 原生） – 虹线](https://1q43.blog/post/10736/)
 - [timvisee/send: :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send](https://github.com/timvisee/send) 在线文件分享共享
 - [城堡阅读](https://www.yuque.com/cbyd/chengbao)
