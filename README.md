@@ -182,7 +182,7 @@
 - [The Life and Death of the Bulbdial Clock](https://ironicsans.beehiiv.com/p/life-death-bulbdial-clock)
 - [Artificial intelligence technology behind ChatGPT was built in Iowa -- with a lot of water](https://apnews.com/article/chatgpt-gpt4-iowa-ai-water-consumption-microsoft-f551fde98083d17a7e8d904f8be822c4)
 - [Navigating the World of Large Language Models](https://www.bentoml.com/blog/navigating-the-world-of-large-language-models)
-- [archive.today: On the trail of the mysterious guerrilla archivist of the Internet](https://gyrovague.com/2023/08/05/archive-today-on-the-trail-of-the-mysterious-guerrilla-archivist-of-the-internet/)
+- [archive.today: On the trail of the mysterious guerrilla archivist of the Internet](https://gyrovague.com/2023/08/05/archive-today-on-the-trail-of-the-mysterious-guerrilla-archivist-of-the-internet/) 一个人对抗多种困难，为互联网的人们提供便利
 - [Content Security Policy (CSP): What Every Web Developer Must Know](https://www.writesoftwarewell.com/content-security-policy/)
 - [1. Spend less than you earn. 2. Learn about investing and develop an investing mindset. Investing can mean stock, but also a personal skill like cooking or a small business, a thing you can rent out, whatever. 3. Repeat.](https://news.ycombinator.com/item?id=34532288)
 - [The best way to get unstuck](https://www.ggnotes.com/the-best-way-to-get-unstuck/)
