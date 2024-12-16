@@ -1,3 +1,4 @@
+- [The Power of the Marginal](https://paulgraham.com/marginal.html) 边缘人的创业优势
 - [读史使人明智：《医学大神》读后#1 | 富于理性](https://havefun.zhubai.love/posts/2477537775382732800) 恐怕我很难有机会，像南丁格尔一样，主导推动教育系统的改变。但我可以秉持“求真”的原则，分享自己的观察，也做好手头的事情，将自己的努力融入有意义的社会网络之中。
 - [OldMapsOnline](https://www.oldmapsonline.org/en) 古老地图时间线
 - [事不过三 No.177 有人味儿的内容(AI特刊 06) | 事不过三](https://via.zhubai.love/posts/2479717701519187968?push_source_type=email) 如果你听过峰终定律，会知道，一部电影，即使中间剧情平平，但只要高光时刻和结束时刻印象还不错，还是会把它当做好电影。为什么会记住这两个时刻？这是感受在起作用。
