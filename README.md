@@ -1,3 +1,4 @@
+- [事不过三 No.177 有人味儿的内容(AI特刊 06) | 事不过三](https://via.zhubai.love/posts/2479717701519187968?push_source_type=email) 如果你听过峰终定律，会知道，一部电影，即使中间剧情平平，但只要高光时刻和结束时刻印象还不错，还是会把它当做好电影。为什么会记住这两个时刻？这是感受在起作用。
 - [I built a tool to make news less terrifying](https://andout.bearblog.dev/i-built-a-tool-to-make-news-less-terrifying/) 还原真实发生的消息，而非哗众取宠
 - [Let's archive the web with Nick Sweeting from ArchiveBox (Changelog Interviews #619)](https://changelog.com/podcast/619) ArchiveBox and Internet Archive
 - [Tech 公司面试杂谈](https://blog.zhuangty.com/tech-company-interview/) 面试技巧
