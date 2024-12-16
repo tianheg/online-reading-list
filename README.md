@@ -1,3 +1,4 @@
+- [I built a tool to make news less terrifying](https://andout.bearblog.dev/i-built-a-tool-to-make-news-less-terrifying/) 还原真实发生的消息，而非哗众取宠
 - [Let's archive the web with Nick Sweeting from ArchiveBox (Changelog Interviews #619)](https://changelog.com/podcast/619) ArchiveBox and Internet Archive
 - [Tech 公司面试杂谈](https://blog.zhuangty.com/tech-company-interview/) 面试技巧
 - [(My) Seasons of Writing](https://notes.jeddacp.com/my-seasons-of-writing/)
