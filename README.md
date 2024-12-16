@@ -1,3 +1,4 @@
+- [It shows what you need to believe | Derek Sivers](https://sive.rs/n2b) 我需要相信什么才能实现我想要的未来
 - [Moving from express to fastify, pt 1](https://blog.val.town/blog/fastify/)
 - [🏰 城堡阅读newsletter - Obsidian Publish](https://publish.obsidian.md/cbyd/)
 - [Multi-layered calendars](https://julian.digital/2023/07/06/multi-layered-calendars/) 在tasks的基础上实现这个理念，怎么样
