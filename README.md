@@ -1,3 +1,4 @@
+- [Multi-layered calendars](https://julian.digital/2023/07/06/multi-layered-calendars/) 在tasks的基础上实现这个理念，怎么样
 - [多寻地图 - 高铁、公交线路辐射图](https://bus.daibor.com/)
 - [The Power of the Marginal](https://paulgraham.com/marginal.html) 边缘人的创业优势
 - [读史使人明智：《医学大神》读后#1 | 富于理性](https://havefun.zhubai.love/posts/2477537775382732800) 恐怕我很难有机会，像南丁格尔一样，主导推动教育系统的改变。但我可以秉持“求真”的原则，分享自己的观察，也做好手头的事情，将自己的努力融入有意义的社会网络之中。
