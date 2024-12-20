@@ -1,3 +1,4 @@
+- [Gemini 为 tldraw 的“自然语言计算”体验提供支持  |  Google AI for Developers](https://ai.google.dev/showcase/tldraw) 太美妙了
 - [Seth Stephens-Davidowitz](https://sethsd.com) Seth’s 2022 book, Don’t Trust Your Gut, on how people can use data to best achieve their life goals
 - [It shows what you need to believe | Derek Sivers](https://sive.rs/n2b) 我需要相信什么才能实现我想要的未来
 - [Moving from express to fastify, pt 1](https://blog.val.town/blog/fastify/)
