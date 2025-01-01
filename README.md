@@ -1,3 +1,4 @@
+- [Why it's hard to trust software, but you mostly have to anyway](https://educatedguesswork.org/posts/ensuring-software-provenance/) 对软件的信任问题
 - [500MRR](https://500mrr.com) 月入500美元的idea
 - [Gemini 为 tldraw 的“自然语言计算”体验提供支持  |  Google AI for Developers](https://ai.google.dev/showcase/tldraw) 太美妙了
 - [Seth Stephens-Davidowitz](https://sethsd.com) Seth’s 2022 book, Don’t Trust Your Gut, on how people can use data to best achieve their life goals
