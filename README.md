@@ -1,3 +1,4 @@
+- [Here's your 2025 guide to the night sky and other celestial wow moments](https://phys.org/news/2025-01-night-sky-celestial-wow-moments.html) 25年天文观测概览
 - [Why it's hard to trust software, but you mostly have to anyway](https://educatedguesswork.org/posts/ensuring-software-provenance/) 对软件的信任问题
 - [500MRR](https://500mrr.com) 月入500美元的idea
 - [Gemini 为 tldraw 的“自然语言计算”体验提供支持  |  Google AI for Developers](https://ai.google.dev/showcase/tldraw) 太美妙了
