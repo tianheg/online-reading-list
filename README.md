@@ -1,3 +1,4 @@
+- [用多邻国学习英语 1000 天 - [米随随] s5s5](https://s5s5.me/4180) 开始模仿这篇文章使用Duolingo
 - [Here's your 2025 guide to the night sky and other celestial wow moments](https://phys.org/news/2025-01-night-sky-celestial-wow-moments.html) 25年天文观测概览
 - [Why it's hard to trust software, but you mostly have to anyway](https://educatedguesswork.org/posts/ensuring-software-provenance/) 对软件的信任问题
 - [500MRR](https://500mrr.com) 月入500美元的idea
