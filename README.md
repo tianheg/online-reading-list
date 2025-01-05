@@ -1,0 +1,1 @@
+- [开源经济学](https://manateelazycat.github.io/2024/12/29/open-source-economics/) 开源是好奇心探索的结果 #开源
