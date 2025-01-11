@@ -12,15 +12,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Get last line of README.md
-        id: get_last_line
+      - name: Get first line of README.md
+        id: get_first_line
         run: |
-          echo "LAST_LINE=$(tail -n 1 README.md)" >> $GITHUB_ENV
+          echo "FIRST_LINE=$(head -n 1 README.md)" >> $GITHUB_ENV
 
       - name: Send message to Telegram
-        if: env.LAST_LINE != ''
+        if: env.FIRST_LINE != ''
         run: |
           curl -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
           -d "chat_id=${{ secrets.TELEGRAM_CHANNEL_ID }}" \
-          -d "text=${{ env.LAST_LINE }}"
+          -d "text=${{ env.FIRST_LINE }}"
           -d "parse_mode=MarkdownV2"
