@@ -1,6 +1,7 @@
 name: Notify Telegram on README Update
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - README.md
