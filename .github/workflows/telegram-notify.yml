@@ -1,0 +1,25 @@
+name: Notify Telegram on README Update
+
+on:
+  push:
+    paths:
+      - README.md
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Get last line of README.md
+        id: get_last_line
+        run: |
+          echo "LAST_LINE=$(tail -n 1 README.md)" >> $GITHUB_ENV
+
+      - name: Send message to Telegram
+        if: env.LAST_LINE != ''
+        run: |
+          curl -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
+          -d "chat_id=${{ secrets.TELEGRAM_CHANNEL_ID }}" \
+          -d "text=${{ env.LAST_LINE }}"
