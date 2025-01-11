@@ -23,4 +23,4 @@ jobs:
         run: |
           curl -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
           -H "Content-Type: application/json" \
-          -d '{"chat_id": "${{ secrets.TELEGRAM_CHANNEL_ID }}", "text": "${{ env.FIRST_LINE }}", "parse_mode": "MarkdownV2"}'
+          -d '{"chat_id": "${{ secrets.TELEGRAM_CHANNEL_ID }}", "text": "'"$(echo "${{ env.FIRST_LINE }}" | sed 's/-/\\-/g')"'", "parse_mode": "MarkdownV2"}'
