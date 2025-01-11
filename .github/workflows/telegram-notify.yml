@@ -21,6 +21,5 @@ jobs:
         if: env.FIRST_LINE != ''
         run: |
           curl -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
-          -d "chat_id=${{ secrets.TELEGRAM_CHANNEL_ID }}" \
-          -d "text=${{ env.FIRST_LINE }}" \
-          -d "parse_mode=MarkdownV2"
+          -H "Content-Type: application/json" \
+          -d '{"chat_id": "${{ secrets.TELEGRAM_CHANNEL_ID }}", "text": "${{ env.FIRST_LINE }}", "parse_mode": "MarkdownV2"}'
