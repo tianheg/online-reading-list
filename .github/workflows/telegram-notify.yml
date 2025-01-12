@@ -16,12 +16,39 @@ jobs:
       - name: Get first line of README.md
         id: get_first_line
         run: |
-          echo "FIRST_LINE=$(head -n 1 README.md | cut -c 3- | sed 's/\[\([^]]*\)-/\[\1/g')" >> $GITHUB_ENV
- 
+          # Process README.md for TG
+          FIRST_LINE=$(head -n 1 README.md | cut -c 3-)
+          
+          # Read reversed.txt and create Python script
+          cat > process_text.py << 'EOF'
+          import sys
+          
+          def escape_special_chars(text):
+              # Read special characters from reversed.txt
+              with open('reversed.txt', 'r') as f:
+                  special_chars = [line.strip() for line in f if line.strip()]
+              
+              # Escape each special character
+              for char in special_chars:
+                  text = text.replace(char, '\\\\' + char)
+              
+              return text
+          
+          # Read input text from first argument
+          if len(sys.argv) > 1:
+              text = sys.argv[1]
+              escaped_text = escape_special_chars(text)
+              print(escaped_text)
+          EOF
+          
+          # Run Python script with FIRST_LINE as argument
+          CORRECT_TEXT=$(python3 process_text.py "$FIRST_LINE")
+          echo "CORRECT_TEXT=$CORRECT_TEXT" >> $GITHUB_ENV
+
       - name: Send message to Telegram
-        if: env.FIRST_LINE != ''
+        if: env.CORRECT_TEXT != ''
         run: |
           curl -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
           -H "Content-Type: application/json" \
-          -d '{"chat_id": "${{ secrets.TELEGRAM_CHANNEL_ID }}", "text": "${{ env.FIRST_LINE }}", "parse_mode": "MarkdownV2" }'
+          -d '{"chat_id": "${{ secrets.TELEGRAM_CHANNEL_ID }}", "text": "${{ env.CORRECT_TEXT }}", "parse_mode": "MarkdownV2" }'
           # help docs https://core.telegram.org/bots/api#markdownv2-style
