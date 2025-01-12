@@ -16,7 +16,7 @@ jobs:
       - name: Get first line of README.md
         id: get_first_line
         run: |
-          echo "FIRST_LINE=$(head -n 1 README.md | cut -c 3- | sed -e 's/\[\([^]]*\)\([.-]\)/\[\1\\\\\2/g' -e 's/\[\([^]]*\)\(-\)/\[\1\\\\\2/g')" >> $GITHUB_ENV
+          echo "FIRST_LINE=$(head -n 1 README.md | cut -c 3- | sed 's/\[\([^]]*\)-/\[\1/g')" >> $GITHUB_ENV
  
       - name: Send message to Telegram
         if: env.FIRST_LINE != ''
