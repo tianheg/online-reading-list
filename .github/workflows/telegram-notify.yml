@@ -22,17 +22,25 @@ jobs:
           # Read reversed.txt and create Python script
           cat > process_text.py << 'EOF'
           import sys
+          import re
           
           def escape_special_chars(text):
               # Read special characters from reversed.txt
               with open('reversed.txt', 'r') as f:
                   special_chars = [line.strip() for line in f if line.strip()]
               
-              # Escape each special character
-              for char in special_chars:
-                  text = text.replace(char, '\\\\' + char)
+              # Extract URL part to protect it from escaping
+              parts = re.split(r'(\(.*?\))', text)
               
-              return text
+              for i in range(len(parts)):
+                  # Skip the URL parts (odd indices after split)
+                  if i % 2 == 0:
+                      # Escape special chars in non-URL parts
+                      for char in special_chars:
+                          if char not in '[]().':  # Don't escape markdown link syntax
+                              parts[i] = parts[i].replace(char, '\\\\' + char)
+              
+              return ''.join(parts)
           
           # Read input text from first argument
           if len(sys.argv) > 1:
